@@ -22,6 +22,9 @@ tehnici păstrați în engleză și explicați în română la prima apariție.
      `COLD OPEN`, `TITLE CARD`, `SEGMENT`, `RECAP + TEASE`, `SOURCES`.
      *Motiv:* sunt definite ca o convenție fixă în „production bible" și pot fi citite de un
      parser/pipeline (vezi `VIDEO-PRODUCTION-PLAN.md`). Conținutul **dinăuntrul** etichetei se traduce.
+     Sub-etichetele care NU sunt cuvinte-cheie protejate se traduc: `[ON SCREEN — DEFINITION]` →
+     `[ON SCREEN — DEFINIȚIE]`. La `[ON SCREEN — CHECKLIST: ...]` se păstrează `CHECKLIST`, dar
+     se traduce subiectul de după două puncte.
    - **Numele proprii:** persoane (Edward Bernays), instituții, branduri (Lucky Strike).
    - **Titlurile de carte/lucrări:** *Propaganda* (1928) — se păstrează, cu glosă în paranteză
      la nevoie: *Propaganda* („Propagandă").
@@ -158,6 +161,14 @@ Explicațiile de mai jos sunt versiuni de referință; pot fi adaptate ușor la 
 | Ad-tech pipeline | lanțul ad-tech | infrastructura tehnologică din spatele publicității online |
 | Recommendation rabbit hole | spirala recomandărilor | algoritmul care te duce din aproape în aproape spre conținut tot mai extrem |
 | Manufactured outrage | indignare fabricată | provocarea deliberată a furiei ca să generezi reacții și distribuiri |
+| Mere-exposure effect | efectul simplei expuneri | preferăm lucrurile doar pentru că ne sunt familiare |
+| Fluency | fluență (ușurința procesării) | informația ușor de procesat pare mai adevărată |
+| Choice architecture | arhitectura alegerii | felul în care sunt aranjate opțiunile schimbă ce alegem |
+| Loss aversion | aversiunea față de pierdere | durerea unei pierderi e resimțită mai tare decât plăcerea unui câștig egal |
+| Availability shortcut | scurtătura disponibilității | estimăm probabilitatea după cât de ușor ne imaginăm ceva |
+| Troll farm | fermă de troli | grup organizat care operează conturi false plătite |
+| Rage-bait | momeală pentru furie | conținut creat special ca să stârnească furie și reacții |
+| Opt-in / opt-out | înscriere / retragere | înscriere activă vs. includere implicită din care trebuie să te retragi |
 
 > Glosarul va fi extins pe măsură ce apar termeni noi în episoadele traduse, păstrând aceleași
 > echivalente peste tot.
