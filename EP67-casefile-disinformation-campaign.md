@@ -129,15 +129,15 @@
 
 ---
 
-## RECAP — and the end of the Case Files
+## RECAP
 
 **VO:** A disinformation campaign manufactures a movement and an enemy from almost nothing: find a fault line, seed it through fake locals, fake the crowd with bots, play both sides to maximize hatred, flood the zone to exhaust the truth, and then hand off to millions of sincere people who carry it for free. It deploys nearly the entire political toolkit at once. The defense is the calm core of this whole series — pause, verify, hold uncertainty, and refuse to hate on command — because in this campaign, the unwitting army is *us*, and so is the cure.
 
-[GFX: end card — series logo. "MANIPULATION TECHNIQUES EXPLAINED. You can't un-see it now."]
+[GFX: end card — "NEXT — Case File #6: The High-Pressure Sales Event. The room you can't leave until you sign."]
 
-**VO:** That closes the Case Files, and with them, this series. From a 1929 cigarette to a hotel-ballroom seminar to a manufactured firestorm, the lesson never changed: the strongest manipulation wants your fast brain, in a hurry, alone, and afraid — and your freedom is the calm, connected, curious question, *what's really happening here?* You have the whole toolkit now. Go use it gently, on the world and on yourself. Thank you for watching — and take care of each other.
+**VO:** We've seen manipulation at the scale of nations. Next, the Case Files come down to the showroom floor — the "free vacation" and the seminar close, engineered so you sign before you can think. See you there.
 
-[GFX: support-resources + media-literacy "learn more" card + composite-dramatization disclaimer.]
+[GFX: support-resources + composite-dramatization disclaimer.]
 
 ---
 
