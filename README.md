@@ -73,9 +73,9 @@ THE CASE FILES (Eps 63–67) — long, two-part autopsies of complete real-world
 ```
 
 - **Episode 62** is a ~30-minute capstone on *scientifically unvalidated* techniques — NLP, subliminal messaging, "power posing," learning styles, body-language "mind reading," "brainwashing" — with the crucial twist that **the claim of power is itself the manipulation** (you get sold the fake; belief alone changes you; it cloaks manipulators in the aura of science).
-- **The Case Files (Eps 63–67)** are longer (~30 min) and use a different two-part structure — **Part 1: the campaign unfolds** (a dramatized composite), **Part 2: the breakdown** (every technique named, with episode callbacks). They show the whole toolkit working together in the wild: two cult types, the negative-selection "filter-and-fleece" investment scam, the romance scam, and a disinformation campaign (the series finale). All case files are clearly labeled **composite dramatizations** and are framed for recognition and self-defense.
+- **The Case Files (Eps 63–72)** are longer (~30 min) and use a different two-part structure — **Part 1: the campaign unfolds** (a dramatized composite), **Part 2: the breakdown** (every technique named, with episode callbacks). They show the whole toolkit working together in the wild: two cult types (63–64), the negative-selection "filter-and-fleece" investment scam (65), the romance scam (66), a disinformation campaign (67), the high-pressure timeshare/sales event (68), the miracle-cure health grift (69), and three **toxic political styles** — the smear (70), the astroturf/dark-money campaign (71), and the fear-and-strongman demagogue (72, the series finale). All case files are clearly labeled **composite dramatizations**, framed for recognition and self-defense, and the political ones are deliberately **non-partisan** (examples drawn from different parties and eras).
 
-**The full series is 67 episodes.** Episodes 1–22 deliver on the core promise (advertisers & politicians); Modules 3–8 round out the techniques; the Special and Case Files let a viewer watch them combine, so they can recognize manipulation wherever they meet it — in a shop, a feed, an argument, a scam, a seminar, or a relationship.
+**The full series is 72 episodes.** Episodes 1–22 deliver on the core promise (advertisers & politicians); Modules 3–8 round out the techniques; the Special and Case Files let a viewer watch them combine, so they can recognize manipulation wherever they meet it — in a shop, a feed, an argument, a scam, a seminar, a relationship, a doctor's-office grift, or a ballot box.
 
 ---
 
@@ -211,7 +211,12 @@ Both campaigns were chosen because they are **extensively documented in public, 
 | 64 | `EP64-casefile-self-improvement-cult.md` | Case File #2 — The "Better You" Cult (LGAT/"opportunity") |
 | 65 | `EP65-casefile-negative-selection-investment-scam.md` | Case File #3 — The Negative-Selection Scam (filter + dark-pattern fleece) |
 | 66 | `EP66-casefile-romance-scam.md` | Case File #4 — The Romance Scam |
-| 67 | `EP67-casefile-disinformation-campaign.md` | Case File #5 — The Disinformation Campaign (series finale) |
+| 67 | `EP67-casefile-disinformation-campaign.md` | Case File #5 — The Disinformation Campaign |
+| 68 | `EP68-casefile-high-pressure-sales-event.md` | Case File #6 — The High-Pressure Sales Event (timeshare) |
+| 69 | `EP69-casefile-miracle-cure-health-misinformation.md` | Case File #7 — The Miracle Cure (health misinformation) |
+| 70 | `EP70-casefile-smear-campaign.md` | Case File #8 — The Smear Campaign (toxic politics) |
+| 71 | `EP71-casefile-astroturf-issue-campaign.md` | Case File #9 — The Astroturf Campaign (toxic politics) |
+| 72 | `EP72-casefile-fear-strongman-campaign-finale.md` | Case File #10 — The Fear-and-Strongman Campaign (series finale) |
 
 See also:
 - `00-SERIES-OVERVIEW.md` — the production bible: tone, format, on-screen conventions, the recurring "Spot-It Checklist," and a release plan.

@@ -170,3 +170,16 @@ Every hard fact, date, name, and number used in the series is listed here, group
 - **Negative selection & scam scale (Eps 65–66):** Cormac Herley (2012), Microsoft Research (Episode 32). Investment/crypto/romance fraud figures: U.S. FTC romance-scam spotlight (~$1.3B reported lost in 2022; ~70,000 reports; $547M in 2021), https://www.ftc.gov/ ; FBI IC3 (crypto-investment-scam losses ~$2.57B in 2022); "pig-butchering" coverage (Axios; Wired).
 - **Disinformation operations (Ep 67):** bipartisan U.S. Senate Select Committee on Intelligence reports; Mueller indictment; RAND "firehose of falsehood" (see Episodes 12, 14, 22).
 - Voice-cloning/deepfake-enabled scams: Episode 36; U.S. FTC consumer alerts.
+
+
+---
+
+## The Case Files, continued (Episodes 68–72)
+
+*Composite dramatizations illustrating documented patterns; not depictions of specific people/organizations. Political case files use examples from different parties and eras and are deliberately non-partisan.*
+
+- **High-pressure sales / timeshare (Ep 68):** U.S. FTC, "Timeshares, Vacation Clubs, and Related Scams" (wear-down tactics, long waits, tag-team closers, "today-only," intelligence-gathering); FTC Consumer Sentinel (~7,000 timeshare-sales complaints/year); state cooling-off/rescission periods. https://consumer.ftc.gov/articles/timeshares-vacation-clubs-and-related-scams
+- **Miracle cure / health misinformation (Ep 69):** U.S. FDA, "6 Tip-offs to Rip-offs"; MedlinePlus, "Health Fraud"; FTC "Operation Cure.All." The 1998 Wakefield MMR study — fraudulent, retracted by *The Lancet* (2010), lead author struck off the UK register; exposed by Brian Deer (*BMJ*). https://en.wikipedia.org/wiki/Fraudulent_Lancet_MMR_vaccine-autism_study
+- **Smear campaign (Ep 70):** attack-ad history via Museum of the Moving Image, "The Living Room Candidate" (e.g., 1964 "Daisy," 1988 "Willie Horton"); "Swiftboating" / Swift Boat Veterans for Truth (2004) and FactCheck.org analyses. https://www.livingroomcandidate.org/ ; https://en.wikipedia.org/wiki/Swiftboating
+- **Astroturf campaign (Ep 71):** "Astroturf" coined by Sen. Lloyd Bentsen (1985) — Merriam-Webster; Oreskes & Conway, *Merchants of Doubt* (2010) on industry-funded doubt. (See Episodes 6, 46.)
+- **Fear-and-strongman / demagoguery (Ep 72):** the 1964 "Daisy" fear ad (Museum of the Moving Image); fear-and-authority and scapegoating literature (Episodes 16, 17); cult-of-personality dynamics (Lifton; Episodes 63–64). Demagoguery treated as an ancient, cross-spectrum phenomenon.
