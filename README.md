@@ -120,9 +120,9 @@ Each script separates **what the audience hears** from **what the audience sees*
 
 Copyright (c) 2026 **Sorin Alin Marinescu**.
 
-This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You are free to share and adapt it for any purpose, even commercially, as long as you give appropriate credit, link to the license, and indicate any changes. See the [`LICENSE`](LICENSE) file for the full text.
+This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)** — an open, "share-alike with attribution" (copyleft) license. You are free to share and adapt it for any purpose, even commercially, as long as you (1) give appropriate credit and link to the license, (2) indicate any changes, and (3) distribute any adaptations under this **same** license. See the [`LICENSE`](LICENSE) file for the full text.
 
 **How to credit:**
-> "Manipulation Techniques Explained" by Sorin Alin Marinescu, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> "Manipulation Techniques Explained" by Sorin Alin Marinescu, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 These scripts are drafts for you to refine, edit, and produce. The source materials referenced throughout are cited for verification; the series intentionally **paraphrases** all sources rather than quoting them at length, and those underlying sources remain the property of their respective owners.
