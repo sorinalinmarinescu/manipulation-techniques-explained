@@ -104,3 +104,47 @@ Every hard fact, date, name, and number used in the series is listed here, group
 - **Foot-in-the-door:** Freedman, J. L., & Fraser, S. C. (1966), "Compliance without pressure: The foot-in-the-door technique," *Journal of Personality and Social Psychology*. Overview: https://www.simplypsychology.org/compliance.html
 - **Love bombing & high-control groups (BITE model — Behavior, Information, Thought, Emotional control):** Steven Hassan, *Combating Cult Mind Control*; https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/
 - **Consumer anti-fraud guidance** (urgency, isolation, "hang up and call back" verification): e.g., U.S. Federal Trade Commission consumer advice. https://consumer.ftc.gov/ (verify current local resources before publishing)
+
+
+---
+
+## Module 4 — Targeting & Distribution (Episodes 31–37)
+
+- **Negative selection / self-selection filtering:** Cormac Herley (2012), *Why Do Nigerian Scammers Say They Are From Nigeria?*, Microsoft Research / WEIS. https://www.microsoft.com/en-us/research/publication/why-do-nigerian-scammers-say-they-are-from-nigeria/
+- **Suppression / "Deterrence" targeting (2016):** Channel 4 News (2020), "Deterring Democracy" / "Trump campaign strategy to deter millions of Black Americans from voting." https://www.channel4.com/news/revealed-trump-campaign-strategy-to-deter-millions-of-black-americans-from-voting-in-2016 — corroborating coverage: CNN, The Guardian, The Washington Post (Sept 2020). (Reported from a leaked dataset; the campaign disputed the framing.)
+- **Ad-tech pipeline (data brokers, trackers, lookalike audiences):** U.S. Federal Trade Commission reports on data brokers; Electronic Frontier Foundation explainers on tracking. https://www.ftc.gov/ and https://www.eff.org/
+- **Recommendation rabbit holes / filter bubbles:** Eli Pariser, *The Filter Bubble* (2011); ongoing academic debate on the magnitude of algorithmic radicalization.
+- **Deepfakes & the "liar's dividend":** Chesney, R. & Citron, D. (2019), "Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security," *California Law Review*. Voice-clone scam warnings: U.S. FTC consumer alerts.
+- **Data voids / search manipulation:** Golebiewski, M. & boyd, d. (2018/2019), *Data Voids: Where Missing Data Can Easily Be Exploited*, Data & Society. https://datasociety.net/library/data-voids/ (term "data void" coined by Michael Golebiewski, Microsoft, May 2018).
+
+## Module 5 — The Persuasion Engine (Episodes 38–46)
+
+- **Cialdini's principles** (reciprocity, scarcity, commitment/consistency, liking; also authority & social proof in Block 1): Robert Cialdini, *Influence: The Psychology of Persuasion*.
+- **Foot-in-the-door** (commitment): Freedman & Fraser (1966). **Sunk-cost fallacy:** Arkes, H. & Blumer, C. (1985), "The psychology of sunk cost," *Organizational Behavior and Human Decision Processes*.
+- **Halo effect** (liking): Nisbett & Wilson (1977) and related social-psychology work.
+- **Anchoring:** Tversky & Kahneman, heuristics-and-biases research. **Decoy effect / asymmetric dominance:** Huber, Payne & Puto (1982); popularized by Dan Ariely, *Predictably Irrational* (the Economist subscription example).
+- **Card stacking & plain folks:** Institute for Propaganda Analysis (1937). Misleading statistics: Darrell Huff, *How to Lie with Statistics* (1954).
+- **Manufactured doubt:** "Doubt is our product" — R.J. Reynolds / Brown & Williamson internal memo (1969); Naomi Oreskes & Erik M. Conway, *Merchants of Doubt* (2010).
+
+## Module 6 — Crooked Rhetoric (Episodes 47–52)
+
+- **Fallacies generally** (straw man, slippery slope, loaded question): standard informal-logic / critical-thinking references. "Brandolini's law" (asymmetry of refutation): attributed to Alberto Brandolini.
+- **Paltering:** Rogers, Zeckhauser, Gino, Norton & Schweitzer (2017), "Artful Paltering," *Journal of Personality and Social Psychology*.
+- **Push polls:** American Association for Public Opinion Research (AAPOR), "What is a 'push' poll?"; Roper Center; *Encyclopedia of Survey Research Methods*.
+- **Euphemism & doublespeak:** George Orwell, "Politics and the English Language" (1946); William Lutz, *Doublespeak* (1989).
+
+## Module 7 — Persuasive Design (Episodes 53–55)
+
+- **Choice architecture / nudges:** Thaler & Sunstein, *Nudge* (see Episode 11). Persuasive technology: B.J. Fogg (Stanford).
+- **Dark patterns:** term coined by Harry Brignull (2010), deceptive.design; Mathur et al. (2019), large-scale study of dark patterns; regulatory reports (U.S. FTC; EU). https://www.deceptive.design/
+- **Attention machine:** B.F. Skinner (variable-ratio reinforcement); Natasha Dow Schüll, *Addiction by Design* (2012), on machine gambling and the "machine zone"; Nir Eyal, *Hooked* (the mechanics, used critically).
+
+## Module 8 — Close Relationships (Episodes 56–61)
+
+- **Coercive control / emotional abuse:** Evan Stark, *Coercive Control* (2007); domestic-violence advocacy literature.
+- **Gaslighting:** Patrick Hamilton, *Gas Light* (1938 play; 1944 film); American Psychological Association and BBC overviews of the term.
+- **DARVO** (Deny, Attack, Reverse Victim and Offender): Jennifer J. Freyd, University of Oregon. https://www.jjfreyd.com/darvo — and Harsey & Freyd peer-reviewed studies.
+- **Intermittent reinforcement / trauma bonding:** B.F. Skinner (variable-ratio); Patrick Carnes (trauma bonds); cycle-of-abuse research.
+- **Triangulation:** Murray Bowen family-systems theory. **Negging:** analyzed in the psychology of manipulation and self-esteem.
+- **Emotional blackmail / "FOG" (Fear, Obligation, Guilt):** Susan Forward, *Emotional Blackmail* (1997).
+- **Support resources:** National Domestic Violence Hotline (US) 1-800-799-7233; 988 Suicide & Crisis Lifeline (US). Direct viewers to local equivalents in their country.

@@ -47,6 +47,26 @@ Blocks 1 and 2 are about *mass* persuasion (advertisers and politicians moving m
 
 This module is included for two reasons: (1) the Reid technique is the clearest *worked specimen* of structured psychological pressure, so the blurry moves from earlier blocks become sharp and explicit; and (2) the **same levers** appear in scams, high-pressure sales, and cult recruitment — things you are far more likely to meet than a police interrogation. It ends with a bonus episode applying the playbook to scammers and cults on the street. **It does not claim that politicians "use the Reid technique"** — it teaches a real, documented method in its real context so you can recognize the moves anywhere.
 
+### Modules 4–8 — completing the map (Episodes 31–61)
+
+After the two anchor campaigns and the interrogation module, the series expands to cover the remaining major families of manipulation. Each module keeps the same shape: a **lead "example + highlights" episode**, then **one technique per episode**.
+
+```
+MODULE 4 (Eps 31–37) — How They Choose & Reach You: targeting & distribution
+MODULE 5 (Eps 38–46) — The Persuasion Engine: the classic influence levers
+MODULE 6 (Eps 47–52) — Crooked Rhetoric: arguments that cheat
+MODULE 7 (Eps 53–55) — Persuasive Design: how apps & products manipulate
+MODULE 8 (Eps 56–61) — Manipulation in Close Relationships (ends with the series finale)
+```
+
+- **Module 4** covers the hidden machinery that decides *who* gets a message and *how* it arrives: negative selection, suppression/demobilization, the ad-tech pipeline, recommendation rabbit holes, deepfakes, and search/data-void manipulation.
+- **Module 5** completes the persuasion toolkit begun in Block 1 (which already covered authority and social proof): reciprocity, scarcity, commitment/consistency, liking, anchoring & the decoy effect, card stacking, plain folks, and manufactured doubt.
+- **Module 6** dissects bad-faith argument: paltering, the straw man, the slippery slope, loaded questions & push polls, and euphemism/doublespeak.
+- **Module 7** turns to the screens in your hand: dark patterns and the attention machine (variable-reward / "slot-machine" design).
+- **Module 8** addresses the most intimate and painful arena — gaslighting, DARVO, intermittent reinforcement, negging/triangulation, and emotional blackmail — framed for **recognition and self-defense**, with support resources included. The finale (Episode 61) distills all 61 episodes into one carry-anywhere toolkit.
+
+**The full series is 61 episodes across 8 parts.** Episodes 1–22 deliver on the core promise (advertisers & politicians); Modules 3–8 round out the picture so a viewer can recognize manipulation wherever they meet it — in a shop, a feed, an argument, a scam, or a relationship.
+
 ---
 
 ## The two example campaigns
@@ -110,6 +130,62 @@ Both campaigns were chosen because they are **extensively documented in public, 
 | 28 | `EP28-technique-science-of-false-confessions.md` | The Science of False Confessions |
 | 29 | `EP29-technique-your-defense-rights-recognition.md` | Your Defense: Rights, Recognition & What to Do |
 | 30 | `EP30-bonus-reid-playbook-on-the-street.md` | BONUS — The Reid Playbook on the Street (Scams & Cults) |
+
+**Module 4 — How They Choose & Reach You (Targeting & Distribution)**
+
+| # | File | Title |
+|---|------|-------|
+| 31 | `EP31-module-targeting-the-invisible-funnel.md` | Module opener — The Invisible Funnel |
+| 32 | `EP32-technique-negative-selection.md` | Negative Selection |
+| 33 | `EP33-technique-suppression-demobilization.md` | Suppression & Demobilization |
+| 34 | `EP34-technique-ad-tech-pipeline.md` | The Ad-Tech Pipeline |
+| 35 | `EP35-technique-recommendation-rabbit-holes.md` | Recommendation Algorithms & Rabbit Holes |
+| 36 | `EP36-technique-deepfakes-synthetic-media.md` | Deepfakes & Synthetic Media |
+| 37 | `EP37-technique-manipulating-information-environment.md` | Manipulating the Information Environment |
+
+**Module 5 — The Persuasion Engine (Classic Influence Levers)**
+
+| # | File | Title |
+|---|------|-------|
+| 38 | `EP38-module-persuasion-engine-six-ways-to-yes.md` | Module opener — Six Ways to Yes |
+| 39 | `EP39-technique-reciprocity.md` | Reciprocity |
+| 40 | `EP40-technique-scarcity.md` | Scarcity |
+| 41 | `EP41-technique-commitment-consistency.md` | Commitment & Consistency (+ Sunk Cost) |
+| 42 | `EP42-technique-liking.md` | Liking |
+| 43 | `EP43-technique-anchoring-decoy.md` | Anchoring & the Decoy Effect |
+| 44 | `EP44-technique-card-stacking.md` | Card Stacking |
+| 45 | `EP45-technique-plain-folks.md` | Plain Folks |
+| 46 | `EP46-technique-manufactured-doubt.md` | Manufactured Doubt |
+
+**Module 6 — Crooked Rhetoric (Arguments that Cheat)**
+
+| # | File | Title |
+|---|------|-------|
+| 47 | `EP47-module-crooked-rhetoric-win-without-being-right.md` | Module opener — How to Win an Argument Without Being Right |
+| 48 | `EP48-technique-paltering.md` | Paltering (Misleading with the Truth) |
+| 49 | `EP49-technique-straw-man.md` | The Straw Man |
+| 50 | `EP50-technique-slippery-slope.md` | The Slippery Slope |
+| 51 | `EP51-technique-loaded-questions-push-polls.md` | Loaded Questions & Push Polls |
+| 52 | `EP52-technique-euphemism-doublespeak.md` | Euphemism & Doublespeak |
+
+**Module 7 — Persuasive Design (How Products Manipulate)**
+
+| # | File | Title |
+|---|------|-------|
+| 53 | `EP53-module-persuasive-design-designed-to-hook-you.md` | Module opener — Designed to Hook You |
+| 54 | `EP54-technique-dark-patterns.md` | Dark Patterns |
+| 55 | `EP55-technique-attention-machine.md` | The Attention Machine |
+
+**Module 8 — Manipulation in Close Relationships**
+
+| # | File | Title |
+|---|------|-------|
+| 56 | `EP56-module-close-relationships-when-the-manipulator-loves-you.md` | Module opener — When the Manipulator Loves You |
+| 57 | `EP57-technique-gaslighting.md` | Gaslighting |
+| 58 | `EP58-technique-darvo.md` | DARVO |
+| 59 | `EP59-technique-intermittent-reinforcement.md` | Intermittent Reinforcement |
+| 60 | `EP60-technique-negging-triangulation.md` | Negging & Triangulation |
+| 61 | `EP61-technique-guilt-obligation-fear-finale.md` | Guilt, Obligation & Fear (Series Finale) |
 
 See also:
 - `00-SERIES-OVERVIEW.md` — the production bible: tone, format, on-screen conventions, the recurring "Spot-It Checklist," and a release plan.
