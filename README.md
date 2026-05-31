@@ -65,7 +65,17 @@ MODULE 8 (Eps 56–61) — Manipulation in Close Relationships (ends with the se
 - **Module 7** turns to the screens in your hand: dark patterns and the attention machine (variable-reward / "slot-machine" design).
 - **Module 8** addresses the most intimate and painful arena — gaslighting, DARVO, intermittent reinforcement, negging/triangulation, and emotional blackmail — framed for **recognition and self-defense**, with support resources included. The finale (Episode 61) distills all 61 episodes into one carry-anywhere toolkit.
 
-**The full series is 61 episodes across 8 parts.** Episodes 1–22 deliver on the core promise (advertisers & politicians); Modules 3–8 round out the picture so a viewer can recognize manipulation wherever they meet it — in a shop, a feed, an argument, a scam, or a relationship.
+**Episodes 1–61** form the core curriculum (one technique per episode). Two finishing sections follow:
+
+```
+SPECIAL (Ep 62) — The Pseudoscience of Persuasion: the "mind powers" that aren't scientifically validated
+THE CASE FILES (Eps 63–67) — long, two-part autopsies of complete real-world-style campaigns
+```
+
+- **Episode 62** is a ~30-minute capstone on *scientifically unvalidated* techniques — NLP, subliminal messaging, "power posing," learning styles, body-language "mind reading," "brainwashing" — with the crucial twist that **the claim of power is itself the manipulation** (you get sold the fake; belief alone changes you; it cloaks manipulators in the aura of science).
+- **The Case Files (Eps 63–67)** are longer (~30 min) and use a different two-part structure — **Part 1: the campaign unfolds** (a dramatized composite), **Part 2: the breakdown** (every technique named, with episode callbacks). They show the whole toolkit working together in the wild: two cult types, the negative-selection "filter-and-fleece" investment scam, the romance scam, and a disinformation campaign (the series finale). All case files are clearly labeled **composite dramatizations** and are framed for recognition and self-defense.
+
+**The full series is 67 episodes.** Episodes 1–22 deliver on the core promise (advertisers & politicians); Modules 3–8 round out the techniques; the Special and Case Files let a viewer watch them combine, so they can recognize manipulation wherever they meet it — in a shop, a feed, an argument, a scam, a seminar, or a relationship.
 
 ---
 
@@ -185,7 +195,23 @@ Both campaigns were chosen because they are **extensively documented in public, 
 | 58 | `EP58-technique-darvo.md` | DARVO |
 | 59 | `EP59-technique-intermittent-reinforcement.md` | Intermittent Reinforcement |
 | 60 | `EP60-technique-negging-triangulation.md` | Negging & Triangulation |
-| 61 | `EP61-technique-guilt-obligation-fear-finale.md` | Guilt, Obligation & Fear (Series Finale) |
+| 61 | `EP61-technique-guilt-obligation-fear-finale.md` | Guilt, Obligation & Fear (module finale) |
+
+**Special — Pseudoscience**
+
+| # | File | Title |
+|---|------|-------|
+| 62 | `EP62-special-pseudoscience-of-persuasion.md` | The Pseudoscience of Persuasion (NLP, subliminal, power posing, etc.) |
+
+**The Case Files — full two-part worked examples (Part 1: the campaign unfolds · Part 2: the breakdown)**
+
+| # | File | Title |
+|---|------|-------|
+| 63 | `EP63-casefile-high-control-cult.md` | Case File #1 — The High-Control Cult |
+| 64 | `EP64-casefile-self-improvement-cult.md` | Case File #2 — The "Better You" Cult (LGAT/"opportunity") |
+| 65 | `EP65-casefile-negative-selection-investment-scam.md` | Case File #3 — The Negative-Selection Scam (filter + dark-pattern fleece) |
+| 66 | `EP66-casefile-romance-scam.md` | Case File #4 — The Romance Scam |
+| 67 | `EP67-casefile-disinformation-campaign.md` | Case File #5 — The Disinformation Campaign (series finale) |
 
 See also:
 - `00-SERIES-OVERVIEW.md` — the production bible: tone, format, on-screen conventions, the recurring "Spot-It Checklist," and a release plan.

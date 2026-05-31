@@ -148,3 +148,25 @@ Every hard fact, date, name, and number used in the series is listed here, group
 - **Triangulation:** Murray Bowen family-systems theory. **Negging:** analyzed in the psychology of manipulation and self-esteem.
 - **Emotional blackmail / "FOG" (Fear, Obligation, Guilt):** Susan Forward, *Emotional Blackmail* (1997).
 - **Support resources:** National Domestic Violence Hotline (US) 1-800-799-7233; 988 Suicide & Crisis Lifeline (US). Direct viewers to local equivalents in their country.
+
+
+---
+
+## Special — The Pseudoscience of Persuasion (Episode 62)
+
+- **NLP unsupported / pseudoscientific:** Witkowski, T. (2010), "Thirty-Five Years of Research on Neuro-Linguistic Programming. NLP Research Data Base." https://philpapers.org/rec/WITTYO ; Sturt et al. (2012), systematic review of NLP and health outcomes, https://pubmed.ncbi.nlm.nih.gov/23211179 ; Roderique-Davies (2009), "Neuro-linguistic programming: cargo cult psychology."
+- **Subliminal messaging:** James Vicary's 1957 "Eat Popcorn / Drink Coca-Cola" claim and his 1962 admission it was fabricated — https://en.wikipedia.org/wiki/James_Vicary ; BBC, "Does subliminal advertising actually work?" Subliminal self-help tapes as placebo: Greenwald, Spangenberg, Pratkanis & Eskenazi (1991), *Psychological Science*.
+- **Power posing & the replication crisis:** Carney, Cuddy & Yap (2010); failed replication Ranehill et al. (2015), *Psychological Science*; Dana Carney's 2016 statement disavowing the effect. https://en.wikipedia.org/wiki/Power_posing
+- **Learning-styles myth:** Pashler, McDaniel, Rohrer & Bjork (2008), "Learning Styles: Concepts and Evidence," *Psychological Science in the Public Interest*. https://pubmed.ncbi.nlm.nih.gov/26162104/
+- **"Brainwashing" as imprecise/overstated:** Robert Jay Lifton's own caution about the term; see Lifton (1961) and Episode 12.
+- Lie-detection myths recap: Episode 24 (Bond & DePaulo, 2006; Wiseman et al., 2012; National Academies polygraph report, 2003).
+
+## The Case Files (Episodes 63–67)
+
+*All case files are composite dramatizations illustrating documented patterns; they are not depictions of specific real people or organizations.*
+
+- **Cults / thought reform (Eps 63–64):** Robert Jay Lifton, *Thought Reform and the Psychology of Totalism* (1961), eight criteria. https://en.wikipedia.org/wiki/Thought_Reform_and_the_Psychology_of_Totalism ; Festinger, Riecken & Schachter, *When Prophecy Fails* (1956) — cognitive dissonance after a failed prophecy (a foundational, methodologically debated study). https://en.wikipedia.org/wiki/When_Prophecy_Fails ; Steven Hassan's BITE model (Episode 30); Margaret Singer on coercive persuasion.
+- **Large-Group Awareness Trainings / high-pressure seminars (Ep 64):** "Large-group awareness training" overview, https://en.wikipedia.org/wiki/Large-group_awareness_training ; critiques compiled at cult-information resources.
+- **Negative selection & scam scale (Eps 65–66):** Cormac Herley (2012), Microsoft Research (Episode 32). Investment/crypto/romance fraud figures: U.S. FTC romance-scam spotlight (~$1.3B reported lost in 2022; ~70,000 reports; $547M in 2021), https://www.ftc.gov/ ; FBI IC3 (crypto-investment-scam losses ~$2.57B in 2022); "pig-butchering" coverage (Axios; Wired).
+- **Disinformation operations (Ep 67):** bipartisan U.S. Senate Select Committee on Intelligence reports; Mueller indictment; RAND "firehose of falsehood" (see Episodes 12, 14, 22).
+- Voice-cloning/deepfake-enabled scams: Episode 36; U.S. FTC consumer alerts.

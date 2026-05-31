@@ -1,8 +1,8 @@
 # Series Overview & Production Bible
 
-This document is the "operating manual" for the whole series. Read it once before producing any episode. It defines the audience, the tone, the recurring format, the on-screen conventions, and the teaching backbone that ties all 61 episodes together.
+This document is the "operating manual" for the whole series. Read it once before producing any episode. It defines the audience, the tone, the recurring format, the on-screen conventions, and the teaching backbone that ties all 67 episodes together.
 
-> **Scope.** The series is **61 episodes across 8 parts**:
+> **Scope.** The series is **67 episodes**:
 > - **Block 1** (Eps 1–11) — advertising / public relations, anchored on Campaign A.
 > - **Block 2** (Eps 12–22) — politics / digital influence, anchored on Campaign B.
 > - **Module 3** (Eps 23–30) — "Manipulation Up Close": coercive interrogation (the Reid technique) + a scam/cult bonus.
@@ -10,9 +10,11 @@ This document is the "operating manual" for the whole series. Read it once befor
 > - **Module 5** (Eps 38–46) — the persuasion engine (classic influence levers).
 > - **Module 6** (Eps 47–52) — crooked rhetoric (arguments that cheat).
 > - **Module 7** (Eps 53–55) — persuasive design (how apps & products manipulate).
-> - **Module 8** (Eps 56–61) — manipulation in close relationships (ends with the series finale).
+> - **Module 8** (Eps 56–61) — manipulation in close relationships.
+> - **Special** (Ep 62) — the pseudoscience of persuasion (NLP, subliminal, power posing, etc.).
+> - **The Case Files** (Eps 63–67) — ~30-min, two-part worked examples (Part 1: campaign unfolds; Part 2: breakdown): two cult types, a negative-selection scam, a romance scam, and a disinformation campaign (series finale).
 >
-> Blocks 1–2 deliver the core promise (advertisers & politicians); Modules 3–8 widen the lens so viewers can recognize manipulation anywhere. Each module after Block 2 keeps the same shape: a **lead "example + highlights" episode**, then **one technique per episode**. The conventions below apply to all parts.
+> Blocks 1–2 deliver the core promise (advertisers & politicians); Modules 3–8 widen the lens; the Special and Case Files show the techniques combining in the wild. Modules 4–8 each open with a **lead "example + highlights" episode** then run **one technique per episode**; Case Files use the **two-part campaign/breakdown** structure. The conventions below apply to all parts.
 
 ---
 
