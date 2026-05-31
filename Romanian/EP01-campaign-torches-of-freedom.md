@@ -25,7 +25,7 @@
 
 [GFX: pe ecran se asamblează prima pagină a unui ziar în stil 1929. Titlul se animează: „WOMEN LIGHT 'TORCHES OF FREEDOM'" *[„FEMEILE APRIND «TORȚELE LIBERTĂȚII»"]*.]
 
-**VO:** A doua zi dimineața, ziarele din toată țara poartă imaginea și expresia folosită de femei: ele nu fumau țigări — aprindeau *torches of freedom*, torțe ale libertății. O lovitură dată opresiunii masculine. Un simbol al egalității.
+**VO:** A doua zi dimineața, ziarele din toată țara poartă imaginea și expresia folosită de femei: ele nu fumau țigări — aprindeau <en>torches of freedom</en>, <emf>torțe ale libertății</emf>. O lovitură dată opresiunii masculine. Un simbol al egalității.
 
 [Pauză. Muzica se oprește.]
 
@@ -46,7 +46,7 @@
 
 [GFX: o animație simplă cu două casete. Caseta 1: „Publicitatea veche — «Săpunul nostru e 99% pur»." Caseta 2: „Bernays — «Cumpără asta și devino cine vrei să fii»."]
 
-**VO:** Bernays a și scris asta. În cartea lui din 1928, intitulată simplu *Propaganda* („Propagandă"), susținea că modelarea deliberată a opiniei publice e o parte normală, chiar necesară, a democrației moderne — și că un mic număr de oameni pricepuți se vor ocupa de această modelare. Nu credea că e ceva sinistru. Credea că e *inginerie*. A numit-o chiar *engineering of consent* — în română, „ingineria consimțământului".
+**VO:** Bernays a și scris asta. În cartea lui din 1928, intitulată simplu *Propaganda* („Propagandă"), susținea că modelarea deliberată a opiniei publice e o parte normală, chiar necesară, a democrației moderne — și că un mic număr de oameni pricepuți se vor ocupa de această modelare. Nu credea că e ceva sinistru. Credea că e *inginerie*. A numit-o chiar <en>engineering of consent</en> — în română, <emf>ingineria consimțământului</emf>.
 
 [LOWER THIRD: Edward Bernays, *Propaganda* (1928) · *Crystallizing Public Opinion* (1923)]
 
@@ -74,7 +74,7 @@
 
 **VO:** Iată cum a procedat un maestru. Urmăriți țintirea, pentru că țintirea e genialitatea.
 
-**VO:** **Pasul unu: găsește obstacolul real.** Bernays nu a ghicit. L-a consultat pe un psihanalist pe nume Abraham Brill ca să înțeleagă *de ce* rezistau femeile la fumatul în public și ce le-ar putea urni. Intuiția lui Brill: pentru femeile care împingeau împotriva unei lumi dominate de bărbați, o țigară putea reprezenta ceva — independență, sfidare, libertate. Țigările, sugera el, ar putea fi „torches of freedom", torțe ale libertății.
+**VO:** **Pasul unu: găsește obstacolul real.** Bernays nu a ghicit. L-a consultat pe un psihanalist pe nume Abraham Brill ca să înțeleagă *de ce* rezistau femeile la fumatul în public și ce le-ar putea urni. Intuiția lui Brill: pentru femeile care împingeau împotriva unei lumi dominate de bărbați, o țigară putea reprezenta ceva — independență, sfidare, libertate. Țigările, sugera el, ar putea fi <en>„torches of freedom"</en>, torțe ale libertății.
 
 [LOWER THIRD: Bernays l-a consultat pe psihanalistul A. A. Brill · Sursă: Wikipedia, „PR campaigns of Edward Bernays"]
 
@@ -86,7 +86,7 @@
 
 [LOWER THIRD: Parada de Paște, NYC, 31 martie 1929 · Surse: Wikipedia; The New Yorker (1998); American Historical Association]
 
-**VO:** Asta e un *pseudo-event* (pseudo-eveniment): un eveniment regizat special ca să fie relatat ca știre — îi dedicăm un episod întreg mai târziu.
+**VO:** Asta e un <en>pseudo-event</en> (<emf>pseudo-eveniment</emf>): un eveniment regizat special ca să fie relatat ca știre — îi dedicăm un episod întreg mai târziu.
 
 **VO:** **Pasul patru: lasă alte voci să ducă mesajul.** Bernays nu voia numele American Tobacco nicăieri în preajmă. Mesagerii erau femeile însele, fotografii, ziarele și — esențial — *ideea*. Când mesajul pare să vină de pretutindeni, mai puțin de la vânzător, lăsăm garda jos.
 
@@ -106,7 +106,7 @@
 
 [LOWER THIRD: reclamele cu „20.679 de medici" au rulat în 1928–1932 · Sursă: Stanford (SRITA)]
 
-**VO:** Le spuneau femeilor „Reach for a Lucky instead of a sweet" *[„Întinde mâna spre o Lucky în loc de o bomboană"]* — legând fumatul de menținerea siluetei, atingând direct anxietatea legată de greutate și frumusețe. Și repetau un singur slogan hipnotic — „It's toasted" *[„E prăjit"]* — până când s-a fixat în urechea națiunii, fie că înțelegea cineva ce înseamnă, fie că nu.
+**VO:** Le spuneau femeilor <en>„Reach for a Lucky instead of a sweet"</en> *[„Întinde mâna spre o Lucky în loc de o bomboană"]* — legând fumatul de menținerea siluetei, atingând direct anxietatea legată de greutate și frumusețe. Și repetau un singur slogan hipnotic — <en>„It's toasted"</en> *[„E prăjit"]* — până când s-a fixat în urechea națiunii, fie că înțelegea cineva ce înseamnă, fie că nu.
 
 [GFX: tipografie cinetică — „REACH FOR A LUCKY INSTEAD OF A SWEET" și „IT'S TOASTED" pulsează pe ecran.]
 
@@ -144,16 +144,16 @@
 [ON SCREEN: listă numerotată, dezvăluită rând cu rând pe măsură ce e narată.]
 
 **VO:**
-1. **Transfer** (transfer) — lipirea unui produs de un sentiment pe care îl ai deja, precum libertatea.
-2. **Testimonial și autoritate împrumutată** (*testimonial and borrowed authority*) — medicii în halate albe.
-3. **Bandwagon și dovada socială** (*bandwagon and social proof*) — senzația că toți o fac.
-4. **Pseudo-events** (pseudo-evenimente) — regizarea a ceva doar ca să fie relatat ca știre.
-5. **Tehnica terței părți** (*the third-party technique*) — ascunderea vânzătorului în spatele unor voci „independente".
-6. **Glittering generalities** (generalități strălucitoare) — cuvinte-virtute lucioase, precum „libertate", care înseamnă totul și nimic.
-7. **Ingineria emoției și a dorinței** (*engineering emotion and desire*) — vânzarea unei identități și împungerea unor frici, precum frica de a fi gras.
-8. **Framing** (încadrare) — controlul a ceea ce *înseamnă* un act înainte să apuci să decizi.
-9. **Repetiția** (*repetition*) — repetarea până când pare adevărat, precum „It's toasted".
-10. **Ingineria mediului** (*engineering the environment*) — schimbarea lumii din jurul tău, ca alegerea să pară firească, precum campania „verde".
+1. **<en>Transfer</en>** (<emf>transfer</emf>) — lipirea unui produs de un sentiment pe care îl ai deja, precum libertatea.
+2. **<en>Testimonial</en> și autoritate împrumutată** (<en>testimonial and borrowed authority</en>) — medicii în halate albe.
+3. **<en>Bandwagon</en> și dovada socială** (<en>bandwagon and social proof</en>) — senzația că toți o fac.
+4. **<en>Pseudo-events</en>** (<emf>pseudo-evenimente</emf>) — regizarea a ceva doar ca să fie relatat ca știre.
+5. **Tehnica terței părți** (<en>the third-party technique</en>) — ascunderea vânzătorului în spatele unor voci „independente".
+6. **<en>Glittering generalities</en>** (<emf>generalități strălucitoare</emf>) — cuvinte-virtute lucioase, precum „libertate", care înseamnă totul și nimic.
+7. **Ingineria emoției și a dorinței** (<en>engineering emotion and desire</en>) — vânzarea unei identități și împungerea unor frici, precum frica de a fi gras.
+8. **<en>Framing</en>** (<emf>încadrare</emf>) — controlul a ceea ce *înseamnă* un act înainte să apuci să decizi.
+9. **Repetiția** (<en>repetition</en>) — repetarea până când pare adevărat, precum <en>„It's toasted"</en>.
+10. **Ingineria mediului** (<en>engineering the environment</en>) — schimbarea lumii din jurul tău, ca alegerea să pară firească, precum campania „verde".
 
 **VO:** Învață aceste zece tehnici și ai învățat gramatica publicității moderne — și o bună parte din politica modernă, pe deasupra.
 
@@ -182,7 +182,7 @@
 
 [GFX: end card. „URMEAZĂ — Tehnica #1: Transfer. Cum un produs fură strălucirea a ceva ce iubești deja."]
 
-**VO:** Data viitoare: cel mai răspândit truc din toată publicitatea — *transfer*-ul. De ce o băutură răcoritoare nu-ți vinde niciodată, de fapt, o băutură răcoritoare. Ne vedem acolo.
+**VO:** Data viitoare: cel mai răspândit truc din toată publicitatea — <en>transfer</en>-ul. De ce o băutură răcoritoare nu-ți vinde niciodată, de fapt, o băutură răcoritoare. Ne vedem acolo.
 
 [GFX: card standard cu disclaimerul.]
 [ON SCREEN: „Această serie analizează tehnici de persuasiune în scop educativ. A numi o tehnică nu este o acuzație de rea-credință — și cauzele bune folosesc aceste instrumente."]

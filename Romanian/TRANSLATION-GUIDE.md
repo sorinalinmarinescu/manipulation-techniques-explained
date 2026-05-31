@@ -63,6 +63,37 @@ paranteză la prima apariție: relații publice (*public relations*).
 
 ---
 
+## 2b. Marcaje pentru TTS (pronunție engleză + accent)
+
+Pentru ca motorul TTS să pronunțe corect termenii englezești și să sublinieze traducerile-cheie,
+folosim două etichete inline, **doar în textul rostit (`**VO:**`)**. NU se pun în `[ON SCREEN]`,
+`[GFX]`, `[LOWER THIRD]` etc. (acelea nu se rostesc).
+
+- `<en>...</en>` — text de pronunțat în **engleză** (termeni tehnici, sloganuri istorice rostite).
+- `<emf>...</emf>` — text de **accentuat** (de regulă echivalentul/traducerea în română, la prima
+  definire a termenului).
+
+Reguli:
+- Fiecare apariție a unui termen tehnic englezesc în VO se înconjoară cu `<en>` (pentru pronunție corectă).
+- La prima definire a termenului, glosa românească se accentuează **o singură dată** cu `<emf>`.
+- Se pot îngloba: `<emf><en>sock puppet</en></emf>`.
+- Când un cuvânt e marcat cu `<en>`/`<emf>`, nu mai e nevoie de *italice* în VO.
+- Numele proprii (Bernays, Lucky Strike) NU se marchează implicit, ca să nu încărcăm textul.
+
+Conversie la randare (un mic script transformă marcajele în funcție de motor):
+
+| Marcaj | Motoare cu SSML (Azure / Google Cloud) | Motoare fără SSML (Piper / Kokoro) |
+|---|---|---|
+| `<en>X</en>` | `<lang xml:lang="en-US">X</lang>` | se elimină eticheta, se citește textul |
+| `<emf>X</emf>` | `<emphasis level="moderate">X</emphasis>` | se elimină eticheta (opțional, micro-pauză) |
+
+**Atenție la motorul TTS pentru română:** Kokoro **nu** suportă limba română. Pentru VO în română
+folosiți Edge TTS (voci `ro-RO`, gratuit), **Azure Speech** (SSML complet — recomandat pentru
+emfază + schimbare de limbă pe cuvânt; are nivel gratuit) sau ElevenLabs multilingv (calitate
+mare, detectează singur cuvintele englezești). Pe Piper/Kokoro etichetele se ignoră elegant.
+
+---
+
 ## 3. Glosar (termen EN → RO + explicație de referință)
 
 Explicațiile de mai jos sunt versiuni de referință; pot fi adaptate ușor la contextul frazei.
@@ -139,5 +170,6 @@ Explicațiile de mai jos sunt versiuni de referință; pot fi adaptate ușor la 
 - [ ] Toate etichetele de producție păstrate în engleză; conținutul lor tradus.
 - [ ] Fiecare termen tehnic explicat la prima apariție, apoi folosit doar în engleză.
 - [ ] Numele proprii, sloganurile istorice EN, datele, URL-urile și citările păstrate.
+- [ ] Marcaje TTS `<en>`/`<emf>` puse doar în `**VO:**`, echilibrate (fiecare deschis e și închis).
 - [ ] Sensul și nuanțele identice cu originalul (fără adăugiri/omisiuni).
 - [ ] Lungimea narațiunii apropiată de original (țintă ~135 cuvinte/min — vezi „production bible").

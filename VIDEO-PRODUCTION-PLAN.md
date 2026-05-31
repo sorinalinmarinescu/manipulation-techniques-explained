@@ -38,7 +38,14 @@ That structure points to **code-driven animation** as the backbone, because:
 |---|---|---|---|
 | Animation / render | **Remotion** (React/TypeScript -> MP4) | $0 | Built for kinetic typography, lower-thirds, checklists, animated charts, SVG "drawing" effects. Component reuse = consistency. Runs on Node. |
 | "Moving drawings" | Animated SVG line-art in Remotion (`stroke-dashoffset` reveal = whiteboard/doodle feel) | $0 | Hand-drawn look without a video model. Build a small, consistent icon set once. |
-| Voice-over | **Kokoro TTS** (local, Apache-licensed) | $0 | Excellent quality, runs on a normal CPU, unlimited. Top free option in [2026 open-source TTS comparisons](https://www.geeky-gadgets.com/text-to-speech-tts-ai-models/). Piper is the faster/lower-quality fallback. |
+| Voice-over | **Kokoro TTS** (local, Apache-licensed) for English; see note for Romanian | $0 | Excellent quality, runs on a normal CPU, unlimited. Top free option in [2026 open-source TTS comparisons](https://www.geeky-gadgets.com/text-to-speech-tts-ai-models/). Piper is the faster/lower-quality fallback. |
+
+> **Romanian VO note.** Kokoro does **not** support Romanian. For Romanian narration use **Edge TTS**
+> (free `ro-RO` neural voices), **Azure Speech** (full SSML — best for the `<en>`/`<emf>` emphasis +
+> per-word English pronunciation; generous free tier), or **ElevenLabs multilingual** (auto-detects
+> English words, paid). The Romanian scripts carry engine-neutral `<en>…</en>` / `<emf>…</emf>` markup
+> in the spoken `**VO:**` lines; a small build step converts them to SSML (`<lang xml:lang="en-US">`
+> / `<emphasis>`) for capable engines or strips them for engines without SSML.
 | The "brain" | **GLM Coding Pro** inside Claude Code / Cline / Cursor / OpenCode | already paid | Writes the markdown->scene parser, the Remotion component library, and the TTS+render glue. |
 | Optional B-roll | Public-domain stills + Ken Burns pan, OR a small amount of Wan/Veo | $0–~$30 | Only where live-action texture is genuinely wanted (e.g. 1920s archival shots). |
 
