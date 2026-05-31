@@ -219,6 +219,7 @@ Both campaigns were chosen because they are **extensively documented in public, 
 | 72 | `EP72-casefile-fear-strongman-campaign-finale.md` | Case File #10 — The Fear-and-Strongman Campaign (series finale) |
 
 See also:
+- `CASE-FILES-INDEX.md` — cross-reference of the 10 Case Files (Eps 63–72) to the techniques they demonstrate (forward and reverse lookup) — a study and production aid.
 - `00-SERIES-OVERVIEW.md` — the production bible: tone, format, on-screen conventions, the recurring "Spot-It Checklist," and a release plan.
 - `SOURCES.md` — the master bibliography for every factual claim in the series.
 
