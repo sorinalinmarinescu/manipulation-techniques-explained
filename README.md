@@ -73,9 +73,11 @@ THE CASE FILES (Eps 63–67) — long, two-part autopsies of complete real-world
 ```
 
 - **Episode 62** is a ~30-minute capstone on *scientifically unvalidated* techniques — NLP, subliminal messaging, "power posing," learning styles, body-language "mind reading," "brainwashing" — with the crucial twist that **the claim of power is itself the manipulation** (you get sold the fake; belief alone changes you; it cloaks manipulators in the aura of science).
-- **The Case Files (Eps 63–72)** are longer (~30 min) and use a different two-part structure — **Part 1: the campaign unfolds** (a dramatized composite), **Part 2: the breakdown** (every technique named, with episode callbacks). They show the whole toolkit working together in the wild: two cult types (63–64), the negative-selection "filter-and-fleece" investment scam (65), the romance scam (66), a disinformation campaign (67), the high-pressure timeshare/sales event (68), the miracle-cure health grift (69), and three **toxic political styles** — the smear (70), the astroturf/dark-money campaign (71), and the fear-and-strongman demagogue (72, the series finale). All case files are clearly labeled **composite dramatizations**, framed for recognition and self-defense, and the political ones are deliberately **non-partisan** (examples drawn from different parties and eras).
+- **The Case Files (Eps 63–72)** are longer (~30 min) and use a different two-part structure — **Part 1: the campaign unfolds** (a dramatized composite), **Part 2: the breakdown** (every technique named, with episode callbacks). They show the whole toolkit working together in the wild: two cult types (63–64), the negative-selection "filter-and-fleece" investment scam (65), the romance scam (66), a disinformation campaign (67), the high-pressure timeshare/sales event (68), the miracle-cure health grift (69), and three **toxic political styles** — the smear (70), the astroturf/dark-money campaign (71), and the fear-and-strongman demagogue (72). All case files are clearly labeled **composite dramatizations**, framed for recognition and self-defense, and the political ones are deliberately **non-partisan** (examples drawn from different parties and eras).
 
-**The full series is 72 episodes.** Episodes 1–22 deliver on the core promise (advertisers & politicians); Modules 3–8 round out the techniques; the Special and Case Files let a viewer watch them combine, so they can recognize manipulation wherever they meet it — in a shop, a feed, an argument, a scam, a seminar, a relationship, a doctor's-office grift, or a ballot box.
+- **The Capstones (Eps 73–74)** are integrative "think like a manipulator → flip every move to defense → end in agency" inoculation finales. **Capstone #1** weaves the four political case files into a single **18-month campaign machine** and gives the voter's integrated, phase-by-phase defense. **Capstone #2** weaves the consumer-side techniques into a single **extraction funnel** and gives the consumer's integrated defense, then closes the whole course. Both are **concept-only** — they name that a campaign *needs* data, amplification, or a slick site, but deliberately omit how to build any of it (strategy is defense; build-manuals are the weapon). Both are non-partisan and end on **agency, not cynicism**.
+
+**The full series is 74 episodes.** Episodes 1–22 deliver on the core promise (advertisers & politicians); Modules 3–8 round out the techniques; the Special and Case Files let a viewer watch them combine; and the two Capstones assemble them into whole machines and drill the integrated defense. The throughline: recognize manipulation wherever you meet it — in a shop, a feed, an argument, a scam, a seminar, a relationship, a doctor's-office grift, or a ballot box.
 
 ---
 
@@ -216,7 +218,14 @@ Both campaigns were chosen because they are **extensively documented in public, 
 | 69 | `EP69-casefile-miracle-cure-health-misinformation.md` | Case File #7 — The Miracle Cure (health misinformation) |
 | 70 | `EP70-casefile-smear-campaign.md` | Case File #8 — The Smear Campaign (toxic politics) |
 | 71 | `EP71-casefile-astroturf-issue-campaign.md` | Case File #9 — The Astroturf Campaign (toxic politics) |
-| 72 | `EP72-casefile-fear-strongman-campaign-finale.md` | Case File #10 — The Fear-and-Strongman Campaign (series finale) |
+| 72 | `EP72-casefile-fear-strongman-campaign-finale.md` | Case File #10 — The Fear-and-Strongman Campaign |
+
+**Capstones — integrative inoculation finales (Part 1: the integrated machine · Part 2: your integrated defense)**
+
+| # | File | Title |
+|---|------|-------|
+| 73 | `EP73-capstone-integrated-political-campaign.md` | Capstone #1 — The Integrated Political Campaign (the 18-month machine) |
+| 74 | `EP74-capstone-integrated-commercial-campaign-finale.md` | Capstone #2 — The Integrated Commercial Campaign (the extraction funnel) · **Series Finale** |
 
 See also:
 - `CASE-FILES-INDEX.md` — cross-reference of the 10 Case Files (Eps 63–72) to the techniques they demonstrate (forward and reverse lookup) — a study and production aid.

@@ -121,6 +121,8 @@ EP69-casefile-miracle-cure-health-misinformation.md
 EP70-casefile-smear-campaign.md
 EP71-casefile-astroturf-issue-campaign.md
 EP72-casefile-fear-strongman-campaign-finale.md
+EP73-capstone-integrated-political-campaign.md
+EP74-capstone-integrated-commercial-campaign-finale.md
 LICENSE
 README.md
 SOURCES.md
@@ -128,6 +130,331 @@ SOURCES.md
 ================================================================
 Files
 ================================================================
+
+================
+File: EP73-capstone-integrated-political-campaign.md
+================
+# Episode 73 — CAPSTONE #1: The Integrated Political Campaign
+### How the smear, the astroturf, the fear-and-strongman, and the disinfo op become ONE 18-month machine — and how a voter dismantles it
+
+**Capstones (series graduation)** · **Type:** Integrative inoculation capstone · **Target runtime:** up to 30 min (two parts)
+**Logline:** You've seen the four toxic political styles separately (Case Files 67, 70, 71, 72). Now watch them fused into a single, sequenced, 18-month campaign — and then learn the voter's integrated defense across the entire arc. This is a "think like a manipulator, then flip every move" workout, built for resistance.
+
+> **Why we walk through it from the strategist's chair (and what we deliberately leave out).** Research on "inoculation" / "prebunking" shows that briefly seeing manipulation *from the builder's side* — in a fictional, defense-flipped way — makes you far harder to fool. So we'll outline the cynical operative's master plan. But we stop at **concept**: we'll say a campaign *needs* data, micro-audiences, and amplification networks; we will **not** explain how to build a bot farm, harvest data, or evade detection. The strategy is the lesson; the build manuals are the weapon, and we don't hand those out. (That line is itself a lesson — see Episode 62.)
+> **Strictly non-partisan, composite dramatization.** "The Operative" and "Candidate X" are inventions. This style appears across the entire political spectrum; documented real examples are cited only to illustrate techniques.
+
+**Learning objectives:**
+- See the four political case files as *phases of one integrated machine.*
+- Learn to identify *which phase* of a campaign is being run on you.
+- Leave with the voter's integrated defense — and with agency, not cynicism.
+
+---
+
+## COLD OPEN
+
+[B-ROLL: a war-room whiteboard; an 18-month calendar; arrows connecting "brand," "enemy," "grassroots," "smear," "blitz."]
+
+**VO:** Across this series you met the smear campaign, the astroturf campaign, the fear-and-strongman campaign, and the foreign disinformation op — each as a separate Case File. But a real campaign doesn't run them one at a time. A serious, cynical operation runs them *together* — sequenced over eighteen months, each phase setting up the next, into a single machine designed to win regardless of who *should* win.
+
+[Beat.]
+
+**VO:** Today we sit, briefly, in the operative's chair — to see the whole machine assembled — and then we take it apart, phase by phase, from the only chair that ultimately matters: yours, the voter's. This is your graduation. Let's think like a manipulator, so we can never be one's puppet.
+
+[GFX: TITLE CARD — "MANIPULATION TECHNIQUES EXPLAINED." Subtitle: "Capstone #1 — The Integrated Political Campaign."]
+
+---
+
+# PART ONE — THE OPERATIVE'S MASTER PLAN (the 18-month machine)
+
+[GFX: a timeline scrubs left-to-right through the phases; each technique lights up with its episode number.]
+
+**VO:** Imagine you're a campaign operative with no scruples — your only goal is to win. Here's the plan you'd write. Watch how every technique from this series snaps into a *sequence.*
+
+## Phase 0 — Foundations (≈ T-minus 18 months): map the battlefield
+
+**VO:** First, research. You don't invent divisions — you *find* the ones that already exist, the rawest nerves in the electorate (**us-vs-them**, Ep 16). You decide which **enemy to scapegoat** and which **threat to inflate** (Ep 17), because fear and a villain will be your engine. And you assemble the *capacity* you'll need: voter data, the ability to sort people into micro-audiences, and amplification reach (**microtargeting**, Ep 13; **the funnel**, Ep 31). *(Concept only: a campaign needs data and audience-targeting infrastructure. How that's built and harvested is exactly the tradecraft we won't detail.)*
+
+## Phase 1 — Define the brand and the enemy (≈ T-12 months)
+
+**VO:** Now craft two stories. For your candidate: a warm, relatable **"plain folks"** persona (Ep 45) draped in **glittering generalities** — "freedom," "common sense," "take our country back" (Ep 7). For the opponent: seed the **demonization** early (Ep 18) and start **manufacturing the crisis** (Ep 17) — the nation is broken, besieged, in decline, and only your candidate is strong enough to save it (the **strongman** frame, Ep 72).
+
+## Phase 2 — Build the "grassroots" (≈ T-9 months)
+
+**VO:** People trust movements, not candidates. So you manufacture one. Stand up **front groups** with wholesome names and hidden funding — **astroturf** (Ep 6, Ep 71). Seed sympathetic online communities. And you build **amplification capacity** — the ability to make things *look* popular and to flood conversations (**bots & sockpuppets**, Ep 14; the **firehose**, Ep 22). *(Concept only: the plan requires fake-crowd capacity. We state that it's needed; we don't teach building it.)*
+
+## Phase 3 — Microtarget, test, and divide (≈ T-6 months)
+
+**VO:** Now personalize. Slice the electorate into micro-audiences and **test which message moves each** (Ep 13). Tailor a different fear to each group; send **dog whistles** to the base (Ep 21); and run **suppression / "deterrence"** messaging at the *other* side's likely voters to make them stay home (Ep 33). Run **manufactured outrage** cycles (Ep 15) to dominate attention, drive donations, and keep your people angry and engaged.
+
+## Phase 4 — The smear (≈ T-3 months)
+
+**VO:** Time to take down the opponent. Opposition research yields fragments; you weaponize them with **out-of-context clips** and **paltering** (Ep 44, 48), launder the dirtiest attacks through "independent" **front groups** (Ep 6), and plant accusations with **push polls** (Ep 51). Wrap the whole race in a **false dilemma** — "me, or catastrophe" (Ep 19) — so any criticism of your side feels like choosing the apocalypse.
+
+## Phase 5 — The blitz (final weeks)
+
+**VO:** Now overwhelm. Run the **firehose** (Ep 22) to exhaust fact-checkers and drown the truth. Drop the late "**October surprise**" smear, timed so rebuttal is impossible (Ep 70). Maximize your base's turnout through fear and identity, while your **demobilization** messaging suppresses theirs (Ep 33).
+
+## Phase 6 — After the vote
+
+**VO:** If you win: demand **loyalty over truth** and brand the **press as the enemy** (Ep 18, Ep 72) so no inconvenient fact can stick. If you lose: contest reality itself — "it was rigged" — using **whataboutism** and the **firehose** (Ep 20, 22) to keep the base mobilized and distrustful. Either way, the machine keeps running.
+
+[GFX: the full machine now glows as one connected system — research → brand/enemy → grassroots → microtarget → smear → blitz → after.]
+
+**VO:** That's the integrated machine. Notice the horror and the genius: *none of it requires your candidate to be the better choice.* It's a system for manufacturing victory out of fear, division, and exhaustion. Now — let's dismantle it.
+
+---
+
+# PART TWO — THE VOTER'S INTEGRATED DEFENSE (across the whole arc)
+
+[GFX: the same timeline, now with a "shield" icon and a counter-move at each phase.]
+
+**VO:** Here's the empowering truth: an integrated machine has integrated weaknesses. Once you can see the *whole* arc, you can identify which phase is being run on you — and each phase has a counter. You don't need to be an expert. You need a handful of habits, applied calmly, over time.
+
+## Counter to Phase 0–1 (the brand and the enemy)
+
+**VO:** When a campaign offers you a **villain instead of a plan**, that's your first alarm. Demand **specifics, not enemies**: "What, exactly, will you *do*, and how?" Separate the candidate's **glittering image** from their actual record (Ep 7, 45) — judge the record, not the flannel shirt. And treat **scapegoating** as a bright red flag, especially any **dehumanizing language** (Ep 16); a complex country's problems never have one hateable cause.
+
+## Counter to Phase 2 (the fake grassroots)
+
+**VO:** When a "movement" appears, **follow the money** (Ep 6, 71). Whose interests does it serve? Who funds the "citizens' coalition"? A real grassroots group is happy to tell you; a front group buries it. And remember that **a crowd can be faked** (Ep 14) — "everyone's saying it" is not evidence of anything.
+
+## Counter to Phase 3 (microtargeting and division)
+
+**VO:** Assume the message you're shown was **tailored to move *you*** (Ep 13), and that your neighbor is being shown something different — maybe the opposite. Deliberately **step outside your bubble**: seek what the *other* micro-audience is being told. Notice **dog whistles** by watching who cheers and why (Ep 21). And recognize **suppression** messaging for what it is (Ep 33): anything telling you your vote is pointless is an attack — so vote anyway.
+
+## Counter to Phase 4 (the smear)
+
+**VO:** For any "**bombshell**," find the **full context** before reacting (Ep 44, 48) — be ruthless about this on attacks against the side you *dislike*, because that's where you're most easily played. Distrust **anonymous "citizens' groups"** and **push polls** (Ep 6, 51). And refuse the **false dilemma** (Ep 19): there is always a third option beyond "my side or the end of the world."
+
+## Counter to Phase 5 (the blitz)
+
+**VO:** When the firehose hits, **don't try to drink it** (Ep 22) — go upstream to a few trustworthy sources instead. Treat any **last-minute bombshell** with heavy skepticism; the timing itself is the tell (Ep 70). And above all — the single most powerful move in this entire series — **pause before you share while angry** (Ep 15). The blitz runs on *your* reflexive shares. Deny it that fuel.
+
+## Counter to Phase 6 (after)
+
+**VO:** **Protect the referees.** Defend the free press, the courts, and election officials *even when they rule against your side* — because they're the only tools anyone has for checking power, and a leader who calls them "the enemy" is disarming *you*, not them (Ep 18, 72). "It was rigged," asserted without evidence and shifted constantly, is the firehose (Ep 22) — demand proof, not volume.
+
+## The meta-defense: name the phase
+
+**VO:** Here's what the *integrated* view gives you that the separate Case Files couldn't. When you can see the whole machine, you can stand in any moment of a campaign and ask: *which phase is this? What's it setting up next?* "Ah — this sudden outrage is a Phase 3 attention-and-division play." "This late scandal is a Phase 5 October surprise." Naming the phase breaks the spell, because the machine only works while you experience each move as spontaneous and isolated. Seen as a *sequence*, it stops being weather and becomes a strategy — one you can simply decline to be moved by.
+
+---
+
+## THE DEEPEST DEFENSE — refuse the real objective
+
+[GFX: a quiet image — a person closing a furious feed, talking calmly to a neighbor who "votes the other way."]
+
+**VO:** And now the most important thing in this entire episode, because it's where these campaigns ultimately aim. The machine's deepest goal often **isn't your vote.** It's your **exhaustion**, your **hatred of your neighbor**, and your **withdrawal**. It wins if you come to believe everyone's lying, nothing's true, everyone's corrupt, and there's no point participating — because a cynical, divided, checked-out citizenry is the easiest of all to rule. We learned this back in Episode 22 and 33: manufactured cynicism and demobilization are *goals*, not side effects.
+
+**VO:** Which means the most radical counter-move — the one the whole machine is least equipped to handle — is almost embarrassingly human: **stay engaged, stay kind, and stay clear-eyed.** Vote, even when told it's pointless. Verify, instead of sharing in fury. Refuse to hate the other half of your neighbors on command — assume they're being worked by the same machine you are, because they usually are. Protect the institutions even when they're inconvenient. Hold uncertainty without collapsing into "nobody can know anything." None of that is naïve. It's the single hardest, most powerful thing a citizen can do, and no campaign has a counter for it.
+
+---
+
+## THE CAPSTONE CHECKLIST
+
+[GFX: "GRADUATION CARD."]
+
+[ON SCREEN — THE INTEGRATED VOTER'S DEFENSE]
+- **Name the phase.** Brand-building? Fake grassroots? Microtargeted division? Smear? Blitz? Spot where you are in the arc.
+- **Villain instead of a plan?** Demand specifics; distrust scapegoats and dehumanizing language.
+- **Follow the money** on every "movement," and remember crowds can be faked.
+- **Full context before reaction** — hardest, and most important, on attacks against the side you dislike.
+- **Reject "me or catastrophe."** Find the third option.
+- **Don't drink the firehose; don't share in fury.** Go upstream; pause.
+- **Protect the referees** — press, courts, election officials — even against your own side.
+- **Refuse the real objective:** stay engaged, kind, and clear-eyed. Cynicism and withdrawal are how the machine wins.
+
+---
+
+## TRY IT YOURSELF
+
+[GFX: "THIS WEEK'S CHALLENGE."]
+
+**VO:** This week, take any live political campaign and try to place its moves on the 18-month arc: what phase is this ad, this "movement," this outrage, this scandal? And do the hardest rep of all — apply the full-context test to one attack made by *your own side* against the other. It won't make you neutral or apathetic; it'll make you a citizen who can't be herded — by anyone. That's not disengagement. That's the opposite of it.
+
+---
+
+## RECAP
+
+**VO:** The four political case files are phases of one 18-month machine: map the divisions, brand the candidate and the enemy, fake a grassroots, microtarget and divide, smear, blitz, and entrench. The integrated defense is to name the phase, demand plans over enemies, follow the money, find full context, reject false binaries, refuse the firehose, protect the referees — and, deepest of all, refuse the machine's real goal: your exhaustion, hatred, and withdrawal. Stay engaged, kind, and clear-eyed.
+
+[GFX: end card — "NEXT — Capstone #2: The Integrated Commercial Campaign. How an advertiser, scammer, or 'guru' builds one machine to get your money."]
+
+**VO:** Politics isn't the only place these techniques fuse into a machine. Next, the final episode: how the *commercial* world — advertisers, scammers, gurus, predatory sellers — weaves the consumer-side techniques into a single funnel built for your wallet, and the integrated defense that beats it. See you there.
+
+[GFX: non-partisan + composite-dramatization disclaimer + "concept-only, no tradecraft" note.]
+
+---
+
+## SOURCES
+- This capstone integrates the political case files (Eps 67, 70, 71, 72) and the techniques in Eps 6, 7, 13, 14, 16, 17, 18, 19, 20, 21, 22, 31, 33, 44, 45, 48, 51.
+- Inoculation / prebunking rationale for the "think like a manipulator" framing: Roozenbeek & van der Linden's work and the *Bad News* game (Cambridge Social Decision-Making Lab).
+- Documented technique examples (non-partisan, across eras/parties): "Daisy" (1964) and "Willie Horton" (1988) ads; "Swiftboating" (2004). See Eps 70–72 sources.
+
+*Full URLs in `SOURCES.md`.*
+
+================
+File: EP74-capstone-integrated-commercial-campaign-finale.md
+================
+# Episode 74 — CAPSTONE #2: The Integrated Commercial Campaign
+### How an advertiser, scammer, or "guru" builds ONE funnel for your money — and how you walk away whole (Series Finale)
+
+**Capstones (series graduation)** · **Type:** Integrative inoculation capstone + whole-series close · **Target runtime:** up to 30 min (two parts)
+**Logline:** The companion to Capstone #1, on the commercial side. You've seen negative selection, dark patterns, the persuasion engine, the funnel, and intermittent reinforcement separately. Now watch a predatory operation weave them into one machine built to extract your money — and learn the consumer's integrated defense. Then we close the entire series.
+
+> **Same rules as Capstone #1.** We sit briefly in the operator's chair to see the whole machine (inoculation), then flip every move to defense and end in agency. **Concept only:** we name that an operation *needs* data, ad-targeting, and a slick site; we do **not** teach how to build dark patterns, harvest data, or evade refunds/regulators. Strategy is defense; build-manuals are the weapon.
+> **This applies on a spectrum** — from an honest company nudging you, to an aggressive advertiser, to an outright fraud. Most commerce is legitimate; this capstone is about recognizing when the funnel turns predatory. Composite dramatization.
+
+**Learning objectives:**
+- See the consumer-side techniques as phases of one extraction funnel.
+- Learn to identify which stage of the funnel you're in, and the counter to each.
+- Leave with the whole-series toolkit — and your money, your judgment, and your dignity intact.
+
+---
+
+## COLD OPEN
+
+[B-ROLL: a flowchart on a strategist's screen — "bait → filter → trust → small yes → escalate → lock-in → retain" — money flowing toward the exit.]
+
+**VO:** A predatory commercial operation — a scam, a "guru," a fleecing subscription, a high-pressure seller — doesn't use one trick. Like the political machine, it runs an entire **funnel**: a sequence where each stage is engineered to pass you to the next, from "who's that?" to "take my savings." You've met every piece of this funnel across the series. Today we watch them assembled into one machine — and then we build your integrated defense.
+
+[Beat.]
+
+**VO:** And remember the hard truth we faced earlier: when this machine targets you, *no one is coming.* The company has lawyers; the platform has a trust-and-safety team that works for the platform, not for you; the regulators are slow and pick a few big cases. In the moment, your defender is *you.* So let's make you formidable. This is your graduation, and the close of the whole course.
+
+[GFX: TITLE CARD — "MANIPULATION TECHNIQUES EXPLAINED." Subtitle: "Capstone #2 — The Integrated Commercial Campaign · SERIES FINALE."]
+
+---
+
+# PART ONE — THE OPERATOR'S FUNNEL (the extraction machine)
+
+[GFX: a funnel diagram fills stage by stage; each technique lights up with its episode number.]
+
+**VO:** Sit in the operator's chair. Your goal: maximum money out, minimum cost and risk. Here's the funnel you'd build.
+
+## Stage 0 — Target and filter
+
+**VO:** You don't want everyone — you want the *susceptible*, because they convert and the skeptics waste your time. So you **filter**: craft bait that *repels* the wary and attracts the hopeful or desperate — **negative selection** (Ep 32) — the "too dumb to be real" ad that's smart precisely because it sorts. And you aim using whatever **targeting data** you can get (Ep 34, the ad-tech pipeline). *(Concept only: the funnel needs targeting data and the ability to reach micro-audiences. We don't detail how that data is gathered.)*
+
+## Stage 1 — The hook (capture attention)
+
+**VO:** Grab attention with a strong emotion — **aspiration, fear, or outrage** (Ep 8, 17, 15): get rich, don't get left behind, your health is in danger, the elites are hiding this. Borrow credibility you didn't earn — **transfer and borrowed authority** (Ep 2, 3): a "Dr.," a celebrity, fake "as seen on" logos. Wrap the promise in **glittering generalities** — "freedom," "transformation," "secret" (Ep 7).
+
+## Stage 2 — The landing and the trust-build
+
+**VO:** Send them to a controlled environment — a **dark-pattern** site (Ep 54) engineered to push one action. Fake the crowd: testimonials, "live" tickers, "10,000 happy customers" — **social proof** (Ep 4). Fake the clock: "only 3 left," countdown timers — **scarcity** (Ep 40). Be warm and relatable — **liking and plain folks** (Ep 42, 45) — ideally through a friendly "advisor" who seems independent (**third-party**, Ep 6). And start the **isolation**: "the banks / your skeptical friends won't understand" (Ep 25, 56).
+
+## Stage 3 — The small yes and the escalation
+
+**VO:** Never ask for the big commitment first. Get a tiny one — a free trial, a small deposit, "just one question" — **foot-in-the-door** (Ep 30) — and give a "free" gift to trigger **reciprocity** (Ep 39). Then climb: **anchor** the price high and offer a "deal," with a **decoy** tier to steer them (Ep 43); use the **assumptive close** (Ep 27); and if it's an investment scam, show a **fabricated early "win"** to build greed and trust. Each yes makes the next feel safe.
+
+## Stage 4 — Lock-in and extraction
+
+**VO:** Now extract. Lean on **commitment and sunk cost** — "you've come this far" (Ep 41). For relationships/memberships, run **intermittent reinforcement** — hot and cold — to bond them (Ep 59). Trap them with **forced continuity / roach-motel** subscriptions (Ep 54). Suppress second thoughts with **manufactured doubt** about alternatives and refunds (Ep 46). And for the scam, the final sting: a "**fee to release your funds**."
+
+## Stage 5 — Retain and defend the exit
+
+**VO:** Make leaving hard and shameful. Bury the cancel button (**roach motel**, Ep 54). Use **guilt and obligation** — FOG (Ep 61). Reframe doubt as the customer's flaw — "you didn't commit fully" — the **cult move** (Ep 63, 64). And recruit them as your salesforce (the MLM trick, Ep 6, 64).
+
+## The legal armor (why no one saves you)
+
+**VO:** And here's the cynical capstone to the whole thing — the part you raised yourself. A careful operator **lawyers the funnel before launch** to stay *harmful-but-legal*: the "**Quack Miranda**" disclaimer ("not evaluated by the FDA," Ep 48, 69), "results not typical," dense fine print, forced-arbitration clauses, offshore hosting. The point is to make the expected penalty a cost of doing business — so that even if caught, the repercussions are minimal, and the victim has no real recourse. Which is exactly why the defense has to be *you*, before you ever enter the funnel.
+
+[GFX: the full funnel glows as one machine — filter → hook → trust → small yes → escalate → lock-in → retain — with "legal armor" wrapped around it.]
+
+**VO:** That's the extraction machine. Now let's take it apart.
+
+---
+
+# PART TWO — THE CONSUMER'S INTEGRATED DEFENSE
+
+[GFX: the same funnel, with a counter-move and a "you are here" marker at each stage.]
+
+**VO:** Same good news as the political machine: an integrated funnel has integrated weaknesses, and once you can see the whole thing, you can spot which stage you're in and apply the counter.
+
+## Counter to Stage 0–1 (filter and hook)
+
+**VO:** When something feels *obviously* scammy, don't relax — recognize you may be looking at a **filter** (Ep 32), and warn the people it's hunting. When a message hits you with sudden **fear, greed, or urgency**, **name the feeling** (Ep 8, 17) — naming it wakes your slow brain. And strip the **borrowed credibility**: is that "expert" real, relevant, and independent (Ep 3)?
+
+## Counter to Stage 2 (landing and trust)
+
+**VO:** Treat **scarcity and "live" social proof as manufactured until proven otherwise** (Ep 4, 40) — reload the page; the timer resets, the crowd is code. Recognize the **dark-pattern** push toward one glowing button (Ep 54) and slow down. And the brightest line of all: anyone who tells you **"don't tell your skeptical friends / your bank / your family"** has just told you it's a scam (Ep 25, 56). Break the isolation immediately.
+
+## Counter to Stage 3–4 (small yes, escalation, lock-in)
+
+**VO:** Know that the **free gift and the tiny first step are hooks** (Ep 30, 39) — accept graciously, owe nothing. **Never decide in the room or "right now"** — the pause is your superpower. **Set your own price before they anchor** (Ep 43). And the unbreakable rule for any "investment": **if you can't withdraw it freely, it isn't yours** (Ep 65) — a balance you can't cash out is a number on their screen. For lock-in: re-decide from **today**, ignoring **sunk cost** (Ep 41) — "knowing what I know now, would I start this?"
+
+## Counter to Stage 5 (retention and exit)
+
+**VO:** Expect the **roach motel** and start cancelling early, in writing (Ep 54). Recognize **guilt and shame** as tools (Ep 61) — you owe a predator nothing, and feeling guilty isn't being guilty. And reject the **"it's your fault it didn't work"** frame (Ep 63, 64): that's the cult move, and it's never true.
+
+## Counter to the legal armor
+
+**VO:** Since the law is gamed and **no one is coming**, your defense moves *upstream* — before money leaves. **Verify independently** (call the bank on a number *you* found; check for the company elsewhere). **Read the fine print and find the real "no."** Use the **cooling-off period** if one exists, fast and in writing. And treat the **Quack Miranda** disclaimer ("not evaluated by the FDA") not as fine print but as a flashing sign that the product admits it does nothing (Ep 48, 69).
+
+## The meta-defense: name the stage, and bring your anchor
+
+**VO:** Like the political machine, the funnel only works while you experience each step as spontaneous. Seen as a **sequence**, it loses its power: "this free gift is Stage 3; this urgency is Stage 2; this guilt-trip is Stage 5." And your single most powerful asset against the whole funnel is the one it works hardest to remove: **an outside anchor.** A skeptical friend you call *before* you decide is, functionally, the trust-and-safety team you don't otherwise have. Be that anchor for others, too — especially the elderly and the lonely, whom the filter selects for.
+
+---
+
+## THE CAPSTONE CHECKLIST
+
+[GFX: "GRADUATION CARD."]
+
+[ON SCREEN — THE INTEGRATED CONSUMER'S DEFENSE]
+- **Name the stage.** Filter? Hook? Trust-build? Small yes? Lock-in? Retention?
+- **Name the feeling** (fear/greed/urgency) — it wakes the slow brain.
+- **Manufactured until proven real** — scarcity, crowds, authority, "live" proof.
+- **"Don't tell anyone" = scam.** Break isolation; call your anchor *first*.
+- **Never decide now; never send money you can't get back.** If you can't withdraw it, it isn't yours.
+- **Ignore sunk cost; re-decide from today.** Expect the roach motel; cancel early.
+- **Guilt and "your fault" are tools.** You owe a predator nothing.
+- **Verify upstream** — because no one is coming to refund you.
+
+---
+
+# SERIES FINALE — THE WHOLE COURSE, IN ONE BREATH
+
+[GFX: a sweeping montage of everything — 1929 cigarette, interrogation room, cult retreat, dating app, timeshare floor, miracle cure, the 18-month war room, the extraction funnel — flowing past, then resolving to a single calm face looking up from a screen.]
+
+**VO:** And here we are — the end of the whole journey. Seventy-four episodes, from a single cigarette in 1929 to two great machines, one built for your vote and one for your wallet. It is an enormous amount. So let's set all of it down, and pick up only what you need to carry for the rest of your life.
+
+**VO:** Because under every technique, every module, every case file, every machine, the defense came down to the same short list:
+
+[ON SCREEN — THE MASTER TOOLKIT]
+**VO:**
+1. **Ask the five questions.** Who's talking and who pays? What am I made to feel? What do they want me to do while I feel it? What's missing? Would this hold up tomorrow, calm, in daylight?
+2. **Name the feeling.** Fear, outrage, desire, belonging, guilt, urgency — naming it wakes the slow, wise brain.
+3. **Pause.** Almost every technique needs you to act *now.* Time is your superpower.
+4. **Separate what's been glued together.** Symbol from product. Messenger from message. Popular from true. Familiar from verified. The lever from the thing.
+5. **Find what's missing.** The other side, the cost, the source, the context, the third option, the funder.
+6. **Keep your anchors.** People, outside sources, written records. Isolation is the universal weapon; connection is the universal defense.
+7. **Follow the money, and name the stage.** Cui bono? Where am I in their sequence?
+8. **Don't trade naivety for cynicism.** "It's all fake, nothing's true, no point trying" is not wisdom — it's manipulation that won. Stay curious, engaged, kind.
+
+**VO:** That's the whole course. And beneath all eight, one quiet question that is your freedom in five words: ***What's really happening here?***
+
+[Beat. Music softens.]
+
+**VO:** A final, honest word — the one we keep returning to, because it's the truest. You will still be persuaded sometimes. So will I. So will everyone who made this. No one is immune, and anyone who claims to be is selling something. The goal was never to make you suspicious of everyone, or unable to be moved, or armored in cynicism. A person who trusts nothing is just as easy to push around as one who trusts everything — pushed the other way, into the isolation and despair that the machines of fear and outrage feed on.
+
+**VO:** The goal was to make you *free.* Free to feel the pull of a beautiful ad, a stirring speech, a charming stranger, a midnight outrage, a frightening enemy, a once-in-a-lifetime deal — and to choose your response with open eyes, instead of having it chosen for you. To be moved by good evidence and good faith, and hard to move by fear, fog, flattery, and manufactured certainty. To stay kind in a world that profits from your anger, curious in a world that profits from your tribalism, generous in a world that profits from your fear, and calm in a world that profits from your panic. And — because so often no one else is coming — to be, for yourself and for the people you love, the protection that the world doesn't provide.
+
+**VO:** You have the whole toolkit now. You can't un-see any of it. So go back into the noise — watch the ads, scroll the feeds, hear the speeches, shop, vote, love the people — and every so often, when something reaches for you, pause and ask: *what's really happening here?* That question is the beginning of your freedom, and the closest thing there is to someone, finally, looking out for you. Thank you for watching, all the way to the end. Be gentle with yourself, be gentle with each other — and take care.
+
+[GFX: end card — series logo. "MANIPULATION TECHNIQUES EXPLAINED. You can't un-see it now."]
+[GFX: support-resources + anti-fraud + media-literacy "learn more" cards + composite-dramatization & non-partisan & "concept-only, no tradecraft" disclaimer.]
+
+---
+
+## SOURCES
+- This capstone integrates the consumer-side case files (Eps 65, 66, 68, 69) and the techniques in Eps 2, 3, 4, 6, 7, 8, 15, 17, 25, 27, 30, 32, 34, 39, 40, 41, 42, 43, 45, 46, 48, 54, 56, 59, 61, 63, 64.
+- Inoculation / prebunking rationale: Roozenbeek & van der Linden; the *Bad News* game.
+- The "no one is coming" reality (limits of trust-and-safety, gamed legality): consumer-protection literature; FTC/FDA enforcement realities (Eps 65, 68, 69 sources).
+- The master toolkit: synthesized from Episodes 1–73.
+
+*Full URLs in `SOURCES.md`.*
 
 ================
 File: CASE-FILES-INDEX.md
@@ -9362,37 +9689,17 @@ File: EP72-casefile-fear-strongman-campaign-finale.md
 
 ---
 
-# SERIES FINALE — BRINGING IT ALL HOME
+## RECAP — and the end of the Case Files
 
-[GFX: a sweeping montage — the 1929 cigarette, the interrogation room, the seminar ballroom, the scam funnel, the manufactured firestorm, the rally — all the campaigns we've studied, flowing past.]
+**VO:** The fear-and-strongman style manufactures a crisis, names an enemy, and offers a savior who demands loyalty over truth — branding opponents and the press as enemies and erasing the middle with "me or catastrophe." The defense is the calm core of this series: notice the fear, demand specifics not enemies, reject the false binary, protect the referees, and refuse to surrender your judgment — even to a leader you like.
 
-**VO:** And with that, we reach the end — 72 episodes, from a single cigarette in 1929 to a strongman on a stage. We've walked through advertising and politics, interrogation rooms and cult retreats, dating apps and timeshare floors, miracle cures and manufactured movements. It is a lot. So let's set it all down and pick up only what you need to carry.
+**VO:** And with that, the ten Case Files are complete. You've now watched the techniques combine in the wild — cults and scams, sales floors and miracle cures, smears, astroturf, disinformation, and strongmen. Two graduation exercises remain: the **Capstones**, where we assemble the political techniques into a single 18-month machine, and the commercial techniques into a single extraction funnel — and build your integrated defense against each, then close the whole course.
 
-**VO:** Because here is the secret that ties every single episode together: you don't have to remember the catalog. Across all 72 episodes, nearly every technique was defeated by the *same handful of habits.* This is the whole series, in one breath.
+[GFX: end card — "NEXT — Capstone #1: The Integrated Political Campaign — the 18-month machine, and the voter's integrated defense."]
 
-[ON SCREEN — THE MASTER TOOLKIT:]
-**VO:**
-1. **Ask the five questions.** Who's talking and who pays? What am I being made to feel? What do they want me to do while I feel it? What's missing? Would this hold up tomorrow, calm, in daylight?
-2. **Name the feeling.** Fear, outrage, desire, belonging, guilt, urgency. Naming it wakes the slow, wise brain.
-3. **Pause.** Almost every technique needs you to act *now*. Time is your superpower. Sleep on it. Never decide in the room.
-4. **Separate what's been glued together.** The symbol from the product. The messenger from the message. Popular from true. Familiar from verified. The lever from the thing.
-5. **Find what's missing.** The other side, the cost, the source, the context, the third option, the funder. The crop is the manipulation.
-6. **Keep your anchors.** Friends, family, outside sources, written records. Isolation is the universal weapon; connection is the universal defense.
-7. **Follow the money, and mind the funnel.** Cui bono? Why is this reaching *me*, and who built the path it traveled?
-8. **Don't trade naivety for cynicism.** "It's all fake, nothing's true, everyone's lying" isn't wisdom — it's manipulation that won. Stay curious, stay engaged, eyes open.
+**VO:** See you there — for graduation.
 
-**VO:** That's it. That's the course. And underneath all eight, one quiet question that is your freedom in five words: ***What's really happening here?***
-
-[Beat. Music softens.]
-
-**VO:** A last, honest word — the same one we've returned to again and again, because it's the most important. You will still be persuaded sometimes. So will I. So will everyone who made this series. Nobody is immune, and anyone who claims to be is selling something. The goal was never to make you invulnerable, or suspicious of everyone, or unable to be moved. A person who trusts nothing is just as easy to push around as one who trusts everything — they're simply pushed the other way, into cynicism, isolation, and despair, which is exactly where the manipulators of fear and outrage want you.
-
-**VO:** The goal was to make you *free.* Free to feel the tug of a beautiful ad, a stirring speech, a charming stranger, a midnight outrage, a frightening enemy — and to choose your response with open eyes, instead of having it chosen for you. To be moved by good evidence and good faith, and hard to move by fear, fog, flattery, and manufactured certainty. To stay kind in a world that profits from your anger, curious in a world that profits from your tribalism, and calm in a world that profits from your panic.
-
-**VO:** You have the whole toolkit now. You can't un-see any of it. So go back out into the noise — watch the ads, scroll the feeds, hear the speeches, love the people — and every so often, when something reaches for you, pause and ask: *what's really happening here?* That question is the beginning of your freedom. Thank you for watching, all the way to the end. Be gentle with yourself, be gentle with each other — and take care.
-
-[GFX: end card — series logo. "MANIPULATION TECHNIQUES EXPLAINED. You can't un-see it now."]
-[GFX: support-resources + anti-fraud + media-literacy "learn more" cards + composite-dramatization & non-partisan disclaimer.]
+[GFX: support-resources + anti-fraud + composite-dramatization & non-partisan disclaimer.]
 
 ---
 
@@ -10019,7 +10326,7 @@ File: 00-SERIES-OVERVIEW.md
 ================
 # Series Overview & Production Bible
 
-This document is the "operating manual" for the whole series. Read it once before producing any episode. It defines the audience, the tone, the recurring format, the on-screen conventions, and the teaching backbone that ties all 72 episodes together.
+This document is the "operating manual" for the whole series. Read it once before producing any episode. It defines the audience, the tone, the recurring format, the on-screen conventions, and the teaching backbone that ties all 74 episodes together.
 
 > **Scope.** The series is **67 episodes**:
 > - **Block 1** (Eps 1–11) — advertising / public relations, anchored on Campaign A.
@@ -10031,7 +10338,8 @@ This document is the "operating manual" for the whole series. Read it once befor
 > - **Module 7** (Eps 53–55) — persuasive design (how apps & products manipulate).
 > - **Module 8** (Eps 56–61) — manipulation in close relationships.
 > - **Special** (Ep 62) — the pseudoscience of persuasion (NLP, subliminal, power posing, etc.).
-> - **The Case Files** (Eps 63–72) — ~30-min, two-part worked examples (Part 1: campaign unfolds; Part 2: breakdown): two cult types (63–64), a negative-selection scam (65), a romance scam (66), a disinformation campaign (67), a high-pressure sales event (68), a miracle-cure health grift (69), and three toxic political styles — smear (70), astroturf (71), and fear-and-strongman (72, the series finale).
+> - **The Case Files** (Eps 63–72) — ~30-min, two-part worked examples (Part 1: campaign unfolds; Part 2: breakdown): two cult types (63–64), a negative-selection scam (65), a romance scam (66), a disinformation campaign (67), a high-pressure sales event (68), a miracle-cure health grift (69), and three toxic political styles — smear (70), astroturf (71), and fear-and-strongman (72).
+> - **Capstones** (Eps 73–74) — two integrative "think like a manipulator → flip to defense" inoculation finales: the political **18-month machine** (73) and the commercial **extraction funnel** (74), each weaving the relevant case-file techniques into one system and drilling the viewer's integrated defense. Concept-only (no operational tradecraft); Ep 74 closes the series.
 >
 > Blocks 1–2 deliver the core promise (advertisers & politicians); Modules 3–8 widen the lens; the Special and Case Files show the techniques combining in the wild. Modules 4–8 each open with a **lead "example + highlights" episode** then run **one technique per episode**; Case Files use the **two-part campaign/breakdown** structure. The conventions below apply to all parts.
 
@@ -10334,6 +10642,19 @@ Every hard fact, date, name, and number used in the series is listed here, group
 - **Astroturf campaign (Ep 71):** "Astroturf" coined by Sen. Lloyd Bentsen (1985) — Merriam-Webster; Oreskes & Conway, *Merchants of Doubt* (2010) on industry-funded doubt. (See Episodes 6, 46.)
 - **Fear-and-strongman / demagoguery (Ep 72):** the 1964 "Daisy" fear ad (Museum of the Moving Image); fear-and-authority and scapegoating literature (Episodes 16, 17); cult-of-personality dynamics (Lifton; Episodes 63–64). Demagoguery treated as an ancient, cross-spectrum phenomenon.
 
+
+---
+
+## Capstones (Episodes 73–74)
+
+*Integrative "think like a manipulator → flip to defense" inoculation finales. Concept-only (no operational tradecraft); composite and non-partisan.*
+
+- **Inoculation / prebunking rationale** for briefly adopting the manipulator's view to build resistance: Roozenbeek, J. & van der Linden, S. — research on psychological inoculation; the *Bad News* game (Cambridge Social Decision-Making Lab). https://www.getbadnews.com/
+- **Capstone #1 (political)** integrates Episodes 67, 70, 71, 72 and techniques in Eps 6, 7, 13, 14, 16, 17, 18, 19, 20, 21, 22, 31, 33, 44, 45, 48, 51. Documented non-partisan examples: "Daisy" (1964), "Willie Horton" (1988), "Swiftboating" (2004).
+- **Capstone #2 (commercial)** integrates Episodes 65, 66, 68, 69 and techniques in Eps 2, 3, 4, 6, 7, 8, 15, 17, 25, 27, 30, 32, 34, 39, 40, 41, 42, 43, 45, 46, 48, 54, 56, 59, 61, 63, 64.
+- The "no one is coming" reality (limits of platform trust-and-safety, the gaming of legality): consumer-protection literature; see Eps 65, 68, 69 sources.
+- The master toolkit (both capstones) is synthesized from Episodes 1–73.
+
 ================
 File: README.md
 ================
@@ -10412,9 +10733,11 @@ THE CASE FILES (Eps 63–67) — long, two-part autopsies of complete real-world
 ```
 
 - **Episode 62** is a ~30-minute capstone on *scientifically unvalidated* techniques — NLP, subliminal messaging, "power posing," learning styles, body-language "mind reading," "brainwashing" — with the crucial twist that **the claim of power is itself the manipulation** (you get sold the fake; belief alone changes you; it cloaks manipulators in the aura of science).
-- **The Case Files (Eps 63–72)** are longer (~30 min) and use a different two-part structure — **Part 1: the campaign unfolds** (a dramatized composite), **Part 2: the breakdown** (every technique named, with episode callbacks). They show the whole toolkit working together in the wild: two cult types (63–64), the negative-selection "filter-and-fleece" investment scam (65), the romance scam (66), a disinformation campaign (67), the high-pressure timeshare/sales event (68), the miracle-cure health grift (69), and three **toxic political styles** — the smear (70), the astroturf/dark-money campaign (71), and the fear-and-strongman demagogue (72, the series finale). All case files are clearly labeled **composite dramatizations**, framed for recognition and self-defense, and the political ones are deliberately **non-partisan** (examples drawn from different parties and eras).
+- **The Case Files (Eps 63–72)** are longer (~30 min) and use a different two-part structure — **Part 1: the campaign unfolds** (a dramatized composite), **Part 2: the breakdown** (every technique named, with episode callbacks). They show the whole toolkit working together in the wild: two cult types (63–64), the negative-selection "filter-and-fleece" investment scam (65), the romance scam (66), a disinformation campaign (67), the high-pressure timeshare/sales event (68), the miracle-cure health grift (69), and three **toxic political styles** — the smear (70), the astroturf/dark-money campaign (71), and the fear-and-strongman demagogue (72). All case files are clearly labeled **composite dramatizations**, framed for recognition and self-defense, and the political ones are deliberately **non-partisan** (examples drawn from different parties and eras).
 
-**The full series is 72 episodes.** Episodes 1–22 deliver on the core promise (advertisers & politicians); Modules 3–8 round out the techniques; the Special and Case Files let a viewer watch them combine, so they can recognize manipulation wherever they meet it — in a shop, a feed, an argument, a scam, a seminar, a relationship, a doctor's-office grift, or a ballot box.
+- **The Capstones (Eps 73–74)** are integrative "think like a manipulator → flip every move to defense → end in agency" inoculation finales. **Capstone #1** weaves the four political case files into a single **18-month campaign machine** and gives the voter's integrated, phase-by-phase defense. **Capstone #2** weaves the consumer-side techniques into a single **extraction funnel** and gives the consumer's integrated defense, then closes the whole course. Both are **concept-only** — they name that a campaign *needs* data, amplification, or a slick site, but deliberately omit how to build any of it (strategy is defense; build-manuals are the weapon). Both are non-partisan and end on **agency, not cynicism**.
+
+**The full series is 74 episodes.** Episodes 1–22 deliver on the core promise (advertisers & politicians); Modules 3–8 round out the techniques; the Special and Case Files let a viewer watch them combine; and the two Capstones assemble them into whole machines and drill the integrated defense. The throughline: recognize manipulation wherever you meet it — in a shop, a feed, an argument, a scam, a seminar, a relationship, a doctor's-office grift, or a ballot box.
 
 ---
 
@@ -10555,7 +10878,14 @@ Both campaigns were chosen because they are **extensively documented in public, 
 | 69 | `EP69-casefile-miracle-cure-health-misinformation.md` | Case File #7 — The Miracle Cure (health misinformation) |
 | 70 | `EP70-casefile-smear-campaign.md` | Case File #8 — The Smear Campaign (toxic politics) |
 | 71 | `EP71-casefile-astroturf-issue-campaign.md` | Case File #9 — The Astroturf Campaign (toxic politics) |
-| 72 | `EP72-casefile-fear-strongman-campaign-finale.md` | Case File #10 — The Fear-and-Strongman Campaign (series finale) |
+| 72 | `EP72-casefile-fear-strongman-campaign-finale.md` | Case File #10 — The Fear-and-Strongman Campaign |
+
+**Capstones — integrative inoculation finales (Part 1: the integrated machine · Part 2: your integrated defense)**
+
+| # | File | Title |
+|---|------|-------|
+| 73 | `EP73-capstone-integrated-political-campaign.md` | Capstone #1 — The Integrated Political Campaign (the 18-month machine) |
+| 74 | `EP74-capstone-integrated-commercial-campaign-finale.md` | Capstone #2 — The Integrated Commercial Campaign (the extraction funnel) · **Series Finale** |
 
 See also:
 - `CASE-FILES-INDEX.md` — cross-reference of the 10 Case Files (Eps 63–72) to the techniques they demonstrate (forward and reverse lookup) — a study and production aid.

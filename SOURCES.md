@@ -183,3 +183,16 @@ Every hard fact, date, name, and number used in the series is listed here, group
 - **Smear campaign (Ep 70):** attack-ad history via Museum of the Moving Image, "The Living Room Candidate" (e.g., 1964 "Daisy," 1988 "Willie Horton"); "Swiftboating" / Swift Boat Veterans for Truth (2004) and FactCheck.org analyses. https://www.livingroomcandidate.org/ ; https://en.wikipedia.org/wiki/Swiftboating
 - **Astroturf campaign (Ep 71):** "Astroturf" coined by Sen. Lloyd Bentsen (1985) — Merriam-Webster; Oreskes & Conway, *Merchants of Doubt* (2010) on industry-funded doubt. (See Episodes 6, 46.)
 - **Fear-and-strongman / demagoguery (Ep 72):** the 1964 "Daisy" fear ad (Museum of the Moving Image); fear-and-authority and scapegoating literature (Episodes 16, 17); cult-of-personality dynamics (Lifton; Episodes 63–64). Demagoguery treated as an ancient, cross-spectrum phenomenon.
+
+
+---
+
+## Capstones (Episodes 73–74)
+
+*Integrative "think like a manipulator → flip to defense" inoculation finales. Concept-only (no operational tradecraft); composite and non-partisan.*
+
+- **Inoculation / prebunking rationale** for briefly adopting the manipulator's view to build resistance: Roozenbeek, J. & van der Linden, S. — research on psychological inoculation; the *Bad News* game (Cambridge Social Decision-Making Lab). https://www.getbadnews.com/
+- **Capstone #1 (political)** integrates Episodes 67, 70, 71, 72 and techniques in Eps 6, 7, 13, 14, 16, 17, 18, 19, 20, 21, 22, 31, 33, 44, 45, 48, 51. Documented non-partisan examples: "Daisy" (1964), "Willie Horton" (1988), "Swiftboating" (2004).
+- **Capstone #2 (commercial)** integrates Episodes 65, 66, 68, 69 and techniques in Eps 2, 3, 4, 6, 7, 8, 15, 17, 25, 27, 30, 32, 34, 39, 40, 41, 42, 43, 45, 46, 48, 54, 56, 59, 61, 63, 64.
+- The "no one is coming" reality (limits of platform trust-and-safety, the gaming of legality): consumer-protection literature; see Eps 65, 68, 69 sources.
+- The master toolkit (both capstones) is synthesized from Episodes 1–73.

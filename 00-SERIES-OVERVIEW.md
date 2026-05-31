@@ -1,6 +1,6 @@
 # Series Overview & Production Bible
 
-This document is the "operating manual" for the whole series. Read it once before producing any episode. It defines the audience, the tone, the recurring format, the on-screen conventions, and the teaching backbone that ties all 72 episodes together.
+This document is the "operating manual" for the whole series. Read it once before producing any episode. It defines the audience, the tone, the recurring format, the on-screen conventions, and the teaching backbone that ties all 74 episodes together.
 
 > **Scope.** The series is **67 episodes**:
 > - **Block 1** (Eps 1–11) — advertising / public relations, anchored on Campaign A.
@@ -12,7 +12,8 @@ This document is the "operating manual" for the whole series. Read it once befor
 > - **Module 7** (Eps 53–55) — persuasive design (how apps & products manipulate).
 > - **Module 8** (Eps 56–61) — manipulation in close relationships.
 > - **Special** (Ep 62) — the pseudoscience of persuasion (NLP, subliminal, power posing, etc.).
-> - **The Case Files** (Eps 63–72) — ~30-min, two-part worked examples (Part 1: campaign unfolds; Part 2: breakdown): two cult types (63–64), a negative-selection scam (65), a romance scam (66), a disinformation campaign (67), a high-pressure sales event (68), a miracle-cure health grift (69), and three toxic political styles — smear (70), astroturf (71), and fear-and-strongman (72, the series finale).
+> - **The Case Files** (Eps 63–72) — ~30-min, two-part worked examples (Part 1: campaign unfolds; Part 2: breakdown): two cult types (63–64), a negative-selection scam (65), a romance scam (66), a disinformation campaign (67), a high-pressure sales event (68), a miracle-cure health grift (69), and three toxic political styles — smear (70), astroturf (71), and fear-and-strongman (72).
+> - **Capstones** (Eps 73–74) — two integrative "think like a manipulator → flip to defense" inoculation finales: the political **18-month machine** (73) and the commercial **extraction funnel** (74), each weaving the relevant case-file techniques into one system and drilling the viewer's integrated defense. Concept-only (no operational tradecraft); Ep 74 closes the series.
 >
 > Blocks 1–2 deliver the core promise (advertisers & politicians); Modules 3–8 widen the lens; the Special and Case Files show the techniques combining in the wild. Modules 4–8 each open with a **lead "example + highlights" episode** then run **one technique per episode**; Case Files use the **two-part campaign/breakdown** structure. The conventions below apply to all parts.
 

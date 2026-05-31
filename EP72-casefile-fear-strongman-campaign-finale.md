@@ -113,37 +113,17 @@
 
 ---
 
-# SERIES FINALE — BRINGING IT ALL HOME
+## RECAP — and the end of the Case Files
 
-[GFX: a sweeping montage — the 1929 cigarette, the interrogation room, the seminar ballroom, the scam funnel, the manufactured firestorm, the rally — all the campaigns we've studied, flowing past.]
+**VO:** The fear-and-strongman style manufactures a crisis, names an enemy, and offers a savior who demands loyalty over truth — branding opponents and the press as enemies and erasing the middle with "me or catastrophe." The defense is the calm core of this series: notice the fear, demand specifics not enemies, reject the false binary, protect the referees, and refuse to surrender your judgment — even to a leader you like.
 
-**VO:** And with that, we reach the end — 72 episodes, from a single cigarette in 1929 to a strongman on a stage. We've walked through advertising and politics, interrogation rooms and cult retreats, dating apps and timeshare floors, miracle cures and manufactured movements. It is a lot. So let's set it all down and pick up only what you need to carry.
+**VO:** And with that, the ten Case Files are complete. You've now watched the techniques combine in the wild — cults and scams, sales floors and miracle cures, smears, astroturf, disinformation, and strongmen. Two graduation exercises remain: the **Capstones**, where we assemble the political techniques into a single 18-month machine, and the commercial techniques into a single extraction funnel — and build your integrated defense against each, then close the whole course.
 
-**VO:** Because here is the secret that ties every single episode together: you don't have to remember the catalog. Across all 72 episodes, nearly every technique was defeated by the *same handful of habits.* This is the whole series, in one breath.
+[GFX: end card — "NEXT — Capstone #1: The Integrated Political Campaign — the 18-month machine, and the voter's integrated defense."]
 
-[ON SCREEN — THE MASTER TOOLKIT:]
-**VO:**
-1. **Ask the five questions.** Who's talking and who pays? What am I being made to feel? What do they want me to do while I feel it? What's missing? Would this hold up tomorrow, calm, in daylight?
-2. **Name the feeling.** Fear, outrage, desire, belonging, guilt, urgency. Naming it wakes the slow, wise brain.
-3. **Pause.** Almost every technique needs you to act *now*. Time is your superpower. Sleep on it. Never decide in the room.
-4. **Separate what's been glued together.** The symbol from the product. The messenger from the message. Popular from true. Familiar from verified. The lever from the thing.
-5. **Find what's missing.** The other side, the cost, the source, the context, the third option, the funder. The crop is the manipulation.
-6. **Keep your anchors.** Friends, family, outside sources, written records. Isolation is the universal weapon; connection is the universal defense.
-7. **Follow the money, and mind the funnel.** Cui bono? Why is this reaching *me*, and who built the path it traveled?
-8. **Don't trade naivety for cynicism.** "It's all fake, nothing's true, everyone's lying" isn't wisdom — it's manipulation that won. Stay curious, stay engaged, eyes open.
+**VO:** See you there — for graduation.
 
-**VO:** That's it. That's the course. And underneath all eight, one quiet question that is your freedom in five words: ***What's really happening here?***
-
-[Beat. Music softens.]
-
-**VO:** A last, honest word — the same one we've returned to again and again, because it's the most important. You will still be persuaded sometimes. So will I. So will everyone who made this series. Nobody is immune, and anyone who claims to be is selling something. The goal was never to make you invulnerable, or suspicious of everyone, or unable to be moved. A person who trusts nothing is just as easy to push around as one who trusts everything — they're simply pushed the other way, into cynicism, isolation, and despair, which is exactly where the manipulators of fear and outrage want you.
-
-**VO:** The goal was to make you *free.* Free to feel the tug of a beautiful ad, a stirring speech, a charming stranger, a midnight outrage, a frightening enemy — and to choose your response with open eyes, instead of having it chosen for you. To be moved by good evidence and good faith, and hard to move by fear, fog, flattery, and manufactured certainty. To stay kind in a world that profits from your anger, curious in a world that profits from your tribalism, and calm in a world that profits from your panic.
-
-**VO:** You have the whole toolkit now. You can't un-see any of it. So go back out into the noise — watch the ads, scroll the feeds, hear the speeches, love the people — and every so often, when something reaches for you, pause and ask: *what's really happening here?* That question is the beginning of your freedom. Thank you for watching, all the way to the end. Be gentle with yourself, be gentle with each other — and take care.
-
-[GFX: end card — series logo. "MANIPULATION TECHNIQUES EXPLAINED. You can't un-see it now."]
-[GFX: support-resources + anti-fraud + media-literacy "learn more" cards + composite-dramatization & non-partisan disclaimer.]
+[GFX: support-resources + anti-fraud + composite-dramatization & non-partisan disclaimer.]
 
 ---
 
