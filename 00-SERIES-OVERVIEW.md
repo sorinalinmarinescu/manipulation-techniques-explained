@@ -1,6 +1,8 @@
 # Series Overview & Production Bible
 
-This document is the "operating manual" for the whole series. Read it once before producing any episode. It defines the audience, the tone, the recurring format, the on-screen conventions, and the teaching backbone that ties all 22 episodes together.
+This document is the "operating manual" for the whole series. Read it once before producing any episode. It defines the audience, the tone, the recurring format, the on-screen conventions, and the teaching backbone that ties all 30 episodes together.
+
+> **Scope update.** The series now has **30 episodes in three parts**: Block 1 (Eps 1–11, advertising/PR), Block 2 (Eps 12–22, politics/digital), and **Module 3 (Eps 23–30): "Manipulation Up Close" — coercive interrogation (the Reid technique) plus a scam/cult bonus.** Module 3 widens the focus from *mass* persuasion to *one-on-one* coercion; see the README for the rationale. The conventions below apply to all three parts.
 
 ---
 
@@ -94,6 +96,7 @@ Every technique episode's checklist is a special case of these five questions. T
 - Release Episode 12 (Campaign B) as a **mid-season premiere**.
 - Release the ten Block-2 technique episodes weekly.
 - Optional **finale**: a 15-minute "Putting It All Together" episode where the viewer analyzes a fresh campaign using everything learned. (A script outline for this is included at the bottom of `EP22`.)
+- **Module 3 (Eps 23–30)** can be released as its own mini-season ("Manipulation Up Close"). Lead with EP23 (the dramatized interrogation), keep EP24's lie-detection myth-busting early since the rest depends on it, and close with the EP30 scams/cults bonus — the most immediately useful episode for most viewers.
 
 ---
 

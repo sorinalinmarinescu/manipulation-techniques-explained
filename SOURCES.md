@@ -71,3 +71,36 @@ Every hard fact, date, name, and number used in the series is listed here, group
 - Bad News / "inoculation" games by the Cambridge Social Decision-Making Lab — practice spotting manipulation by *playing* the manipulator. https://www.getbadnews.com/
 
 *(Resource links are provided for the creator's research and for an end-of-series "learn more" card; verify availability before publishing.)*
+
+
+---
+
+## Module 3 — Coercive interrogation (the Reid technique), lie detection & scams (Episodes 23–30)
+
+### The Reid technique itself
+- "Reid technique," Wikipedia — origins with John E. Reid (polygraph examiner, former Chicago officer) and Fred Inbau; high-pressure-then-sympathy structure. https://en.wikipedia.org/wiki/Reid_technique
+- U.S. Office of Justice Programs (OJP) — abstract listing the nine steps (positive confrontation, theme development, handling denials, overcoming objections, procurement/retention of attention, handling passive mood, alternative question, developing details, written confession). https://www.ojp.gov/ncjrs/virtual-library/abstracts/reid-technique-interviewing-and-interrogation-investigative
+- Inbau, Reid, Buckley & Jayne, *Criminal Interrogation and Confessions* — the foundational manual (1st ed. 1962). OJP abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/criminal-interrogation-and-confessions-fourth-edition
+- John E. Reid & Associates — the owners' position that the method, properly applied, is not coercive; and their newer "Reid PEACE" program. https://reid.com/
+
+### Lie detection (Episode 24)
+- **~54% accuracy:** Bond, C. F., & DePaulo, B. M. (2006), "Accuracy of Deception Judgments," *Personality and Social Psychology Review* — meta-analysis of 200+ studies; avg. 54% (≈47% of lies, ≈61% of truths). https://pubmed.ncbi.nlm.nih.gov/16859438/
+- **Professionals no better than laypeople:** Bond & DePaulo (2008), "Individual differences in judging deception"; Aamodt & Custer review (professionals ≈ 55%). https://pubmed.ncbi.nlm.nih.gov/18605814/
+- **"Lying eyes"/NLP eye-direction myth debunked:** Wiseman, Watt, ten Brinke, Porter, Couper & Rankin (2012), "The Eyes Don't Have It: Lie Detection and Neuro-Linguistic Programming," *PLOS ONE*. https://pmc.ncbi.nlm.nih.gov/articles/PMC3394779/
+- **Polygraph not a valid lie detector:** National Research Council / National Academy of Sciences (2003), *The Polygraph and Lie Detection* — physiological responses not uniquely related to deception; accuracy insufficient for screening. https://www.nationalacademies.org/news/the-polygraph-and-lie-detection
+
+### False confessions, risk factors & reform (Episodes 26, 28, 29)
+- **Risk factors & recommendations:** Kassin, S. M., et al. (2010), "Police-Induced Confessions: Risk Factors and Recommendations," *Law and Human Behavior* (AP-LS Scientific Review Paper); updated 2.0 in 2025. https://pubmed.ncbi.nlm.nih.gov/20112057/
+- **~25% of DNA exonerations involved false confessions/admissions:** Innocence Project. https://innocenceproject.org/overturning-false-confessions/ and https://innocenceproject.org/research-resources/
+- **~30% in an analysis of 194 DNA exonerations:** Garrett, B. (2011) and related analysis. https://pubmed.ncbi.nlm.nih.gov/21721941/
+- **Juveniles especially at risk:** Innocence Project, "False Confessions More Prevalent Among Teens." https://innocenceproject.org/news/false-confessions-more-prevalent-among-teens/
+- **Major trainer drops Reid (2017):** The Marshall Project, "The Seismic Change in Police Interrogations"; Innocence Project summary. https://www.themarshallproject.org/2017/03/07/the-seismic-change-in-police-interrogations
+- **PEACE model (England & Wales, since ~1992):** "PEACE method of interrogation," Wikipedia; aims at a full account, not a confession. https://en.wikipedia.org/wiki/PEACE_method_of_interrogation
+
+### Rights (Episode 29)
+- Right to silence and to counsel (U.S.): *Miranda v. Arizona* (1966); on the need to invoke silence clearly, *Berghuis v. Thompkins* (2010). Rights vary by jurisdiction; the episode notes this is education, not legal advice.
+
+### The street playbook — scams & cults (Episode 30)
+- **Foot-in-the-door:** Freedman, J. L., & Fraser, S. C. (1966), "Compliance without pressure: The foot-in-the-door technique," *Journal of Personality and Social Psychology*. Overview: https://www.simplypsychology.org/compliance.html
+- **Love bombing & high-control groups (BITE model — Behavior, Information, Thought, Emotional control):** Steven Hassan, *Combating Cult Mind Control*; https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/
+- **Consumer anti-fraud guidance** (urgency, isolation, "hang up and call back" verification): e.g., U.S. Federal Trade Commission consumer advice. https://consumer.ftc.gov/ (verify current local resources before publishing)

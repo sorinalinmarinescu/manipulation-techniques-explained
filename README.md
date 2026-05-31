@@ -37,6 +37,16 @@ Each technique is explained **only once**, in its own episode, so the course nev
 
 Every episode is designed to run **up to ~15 minutes**.
 
+### Module 3 — a deliberate widening (Episodes 23–30)
+
+Blocks 1 and 2 are about *mass* persuasion (advertisers and politicians moving millions). **Module 3 widens the lens to one-on-one coercion**, using the most systematized example that exists: the **Reid technique** of police interrogation — the method that has talked innocent people into false confessions.
+
+```
+... CAMPAIGN B ──► Techniques 11–20 ──► MODULE 3: Coercion Up Close (Episodes 23–30)
+```
+
+This module is included for two reasons: (1) the Reid technique is the clearest *worked specimen* of structured psychological pressure, so the blurry moves from earlier blocks become sharp and explicit; and (2) the **same levers** appear in scams, high-pressure sales, and cult recruitment — things you are far more likely to meet than a police interrogation. It ends with a bonus episode applying the playbook to scammers and cults on the street. **It does not claim that politicians "use the Reid technique"** — it teaches a real, documented method in its real context so you can recognize the moves anywhere.
+
 ---
 
 ## The two example campaigns
@@ -88,6 +98,19 @@ Both campaigns were chosen because they are **extensively documented in public, 
 | 21 | `EP21-technique-dog-whistles.md` | Dog Whistles & Coded Language |
 | 22 | `EP22-technique-firehose-of-falsehood.md` | The Firehose of Falsehood |
 
+**Module 3 — Manipulation Up Close: Coercive Interrogation (the Reid technique)**
+
+| # | File | Title |
+|---|------|-------|
+| 23 | `EP23-reid-technique-in-action.md` | Module opener — The Reid Technique in Action |
+| 24 | `EP24-technique-myth-human-lie-detector.md` | The Myth of the Human Lie Detector |
+| 25 | `EP25-technique-confrontation-control-isolation.md` | Confrontation, Control & Isolation |
+| 26 | `EP26-technique-theme-development-minimization.md` | Theme Development: Minimization |
+| 27 | `EP27-technique-denials-alternative-question.md` | Crushing Denials & the Alternative Question |
+| 28 | `EP28-technique-science-of-false-confessions.md` | The Science of False Confessions |
+| 29 | `EP29-technique-your-defense-rights-recognition.md` | Your Defense: Rights, Recognition & What to Do |
+| 30 | `EP30-bonus-reid-playbook-on-the-street.md` | BONUS — The Reid Playbook on the Street (Scams & Cults) |
+
 See also:
 - `00-SERIES-OVERVIEW.md` — the production bible: tone, format, on-screen conventions, the recurring "Spot-It Checklist," and a release plan.
 - `SOURCES.md` — the master bibliography for every factual claim in the series.
@@ -113,6 +136,7 @@ Each script separates **what the audience hears** from **what the audience sees*
 - **Persuasion is not a crime.** Many of these techniques are used by people with good intentions — charities, public-health campaigns, teachers. The point of the course is to make the *mechanism* visible, whoever is using it.
 - **Where the evidence is contested, the script says so.** A recurring theme is that manipulators (and the press) often *overstate* how powerful their tools are. Learning to doubt the hype is itself a media-literacy skill.
 - **Every factual claim is sourced** in `SOURCES.md` and in the "Sources" box at the end of each episode.
+- **On Module 3 (the Reid technique):** the scripts are deliberately *not* "balanced" into false equivalence. The weight of independent evidence is that guilt-presuming interrogation produces false confessions; the technique's owners dispute this, and their position is presented once and clearly labeled as the interested party's view. The module is framed for **recognition and self-defense**, never as a how-to for coercing anyone.
 
 ---
 
