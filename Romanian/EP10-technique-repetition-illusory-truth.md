@@ -50,7 +50,7 @@
 
 **VO:** Hiba e că recunoașterea nu are nicio legătură cu acuratețea. O minciună pe care ai auzit-o de zece ori devine și ea ușor de procesat — așa că și ea începe să pară adevărată. Studiile constată că efectul poate funcționa chiar și asupra oamenilor care, întrebați direct, știu răspunsul corect. Versiunea familiară *pare* corectă chiar și când știi că e greșită. Repetiția nu se obosește să-ți învingă cunoașterea; se strecoară pe sub ea.
 
-**VO:** De aceea „repetă o minciună destul de des și devine acceptată" nu e doar o vorbă cinică — e o trăsătură măsurabilă a minților omenești. Și de aceea propagandiștii și publicitarii deopotrivă au iubit dintotdeauna expresia simplă, repetată.
+**VO:** De aceea „repetă o minciună destul de des și devine acceptată" nu e doar o vorbă cinică — e o trăsătură măsurabilă a minților omenești. Și de aceea propagandiștii și specialiștii în publicitate deopotrivă au iubit dintotdeauna expresia simplă, repetată.
 
 ---
 

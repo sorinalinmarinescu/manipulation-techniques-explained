@@ -31,7 +31,7 @@
 
 [GFX: un card cu portret/citat pentru Robert Cialdini.]
 
-**VO:** Psihologul Robert Cialdini a petrecut ani studiind profesioniștii obținerii acordului — vânzători, strângători de fonduri, publicitari, negociatori — ca să găsească principiile recurente care îi fac, în chip sigur, pe oameni să spună „da". Le-a distilat într-o mână de principii devenite celebre: <en>reciprocity</en> (<emf>reciprocitate</emf>), <en>commitment and consistency</en> (<emf>angajament și consecvență</emf>), <en>social proof</en> (<emf>dovada socială</emf>), <en>authority</en> (<emf>autoritate</emf>), <en>liking</en> (<emf>simpatie</emf>) și <en>scarcity</en> (<emf>raritate</emf>). (A adăugat ulterior un al șaptelea, <en>unity</en> — <emf>unitatea</emf>.)
+**VO:** Psihologul Robert Cialdini a petrecut ani studiind profesioniștii obținerii acordului — vânzători, strângători de fonduri, specialiști în publicitate, negociatori — ca să găsească principiile recurente care îi fac, în chip sigur, pe oameni să spună „da". Le-a distilat într-o mână de principii devenite celebre: <en>reciprocity</en> (<emf>reciprocitate</emf>), <en>commitment and consistency</en> (<emf>angajament și consecvență</emf>), <en>social proof</en> (<emf>dovada socială</emf>), <en>authority</en> (<emf>autoritate</emf>), <en>liking</en> (<emf>simpatie</emf>) și <en>scarcity</en> (<emf>raritate</emf>). (A adăugat ulterior un al șaptelea, <en>unity</en> — <emf>unitatea</emf>.)
 
 [LOWER THIRD: Robert Cialdini, *Influence: The Psychology of Persuasion* („Influența: psihologia persuasiunii")]
 

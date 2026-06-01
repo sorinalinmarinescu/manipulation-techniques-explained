@@ -15,13 +15,13 @@ Acest document este „manualul de operare" al întregii serii. Citește-l o dat
 > - **Dosarele de caz** (Ep. 63–72) — exemple lucrate de ~30 min, în două părți (Partea 1: campania se desfășoară; Partea 2: analiza): două tipuri de culte (63–64), o escrocherie cu selecție negativă (65), o escrocherie sentimentală (66), o campanie de dezinformare (67), un eveniment de vânzare sub presiune (68), o șarlatanie cu leacuri-minune în sănătate (69) și trei stiluri politice toxice — denigrarea (70), astroturf (71) și frica-și-omul-providențial (72).
 > - **Episoadele de încununare** (Ep. 73–74) — două finaluri integratoare, de „inoculare", după modelul „gândește ca un manipulator → întoarce-te spre apărare": **mașinăria de 18 luni** din politică (73) și **pâlnia de extracție** comercială (74), fiecare împletind tehnicile relevante din dosarele de caz într-un singur sistem și exersând apărarea integrată a privitorului. Doar la nivel de concept (fără tehnici operaționale); Ep. 74 încheie seria.
 >
-> Blocurile 1–2 livrează promisiunea de bază (publicitarii și politicienii); Modulele 3–8 lărgesc perspectiva; Specialul și Dosarele de caz arată tehnicile combinându-se în lumea reală. Modulele 4–8 încep fiecare cu un **episod-fanion „exemplu + puncte-cheie"**, apoi rulează **câte o tehnică pe episod**; Dosarele de caz folosesc structura **în două părți, campanie/analiză**. Convențiile de mai jos se aplică tuturor părților.
+> Blocurile 1–2 livrează promisiunea de bază (specialiștii în publicitate și politicienii); Modulele 3–8 lărgesc perspectiva; Specialul și Dosarele de caz arată tehnicile combinându-se în lumea reală. Modulele 4–8 încep fiecare cu un **episod-fanion „exemplu + puncte-cheie"**, apoi rulează **câte o tehnică pe episod**; Dosarele de caz folosesc structura **în două părți, campanie/analiză**. Convențiile de mai jos se aplică tuturor părților.
 
 ---
 
 ## 1. Misiunea într-o singură propoziție
 
-> Să oferim unui cetățean obișnuit capacitatea de a **observa**, de a **numi** și de a **descifra în linii mari** tehnicile de manipulare folosite de publicitari și de politicieni.
+> Să oferim unui cetățean obișnuit capacitatea de a **observa**, de a **numi** și de a **descifra în linii mari** tehnicile de manipulare folosite de specialiști în publicitate și de politicieni.
 
 Dacă un privitor termină cursul și, urmărind o reclamă TV sau un miting electoral, gândește *„ăsta e un apel la efectul de turmă suprapus peste un apel la frică, iar ei mă vor destul de furios cât să dau mai departe"* — atunci seria și-a atins scopul.
 

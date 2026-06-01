@@ -44,7 +44,7 @@
 
 [GFX: două becuri etichetate „STEAG = mândrie" și „PRODUS = ?". Un fir le leagă; al doilea bec se aprinde.]
 
-**VO:** Creierul tău e o mașină de asociere. Învață legând lucrurile care apar împreună — așa ai învățat că un semafor roșu înseamnă stop. Publicitarii deturnează acest cablaj. Arată produsul lângă simbol de suficient de multe ori, iar creierul tău rapid, automat, le pune discret în același sertar.
+**VO:** Creierul tău e o mașină de asociere. Învață legând lucrurile care apar împreună — așa ai învățat că un semafor roșu înseamnă stop. Specialiștii în publicitate deturnează acest circuit. Arată produsul lângă simbol de suficient de multe ori, iar creierul tău rapid, automat, le pune discret în același sertar.
 
 **VO:** Iată capcana: asta se petrece *sub* gândirea conștientă. Nu decizi să te simți patriot față de o camionetă. Sentimentul sosește primul, și abia mai târziu — dacă se întâmplă vreodată — creierul tău lent, logic, întreabă: „stai puțin, ce legătură are un steag cu o camionetă?". Până atunci reclama s-a terminat, iar strălucirea caldă e deja atașată.
 

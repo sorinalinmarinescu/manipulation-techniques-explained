@@ -151,13 +151,13 @@ Acest document este „manualul de operare" al întregii serii. Citește-l o dat
 > - **Dosarele de caz** (Ep. 63–72) — exemple lucrate de ~30 min, în două părți (Partea 1: campania se desfășoară; Partea 2: analiza): două tipuri de culte (63–64), o escrocherie cu selecție negativă (65), o escrocherie sentimentală (66), o campanie de dezinformare (67), un eveniment de vânzare sub presiune (68), o șarlatanie cu leacuri-minune în sănătate (69) și trei stiluri politice toxice — denigrarea (70), astroturf (71) și frica-și-omul-providențial (72).
 > - **Episoadele de încununare** (Ep. 73–74) — două finaluri integratoare, de „inoculare", după modelul „gândește ca un manipulator → întoarce-te spre apărare": **mașinăria de 18 luni** din politică (73) și **pâlnia de extracție** comercială (74), fiecare împletind tehnicile relevante din dosarele de caz într-un singur sistem și exersând apărarea integrată a privitorului. Doar la nivel de concept (fără tehnici operaționale); Ep. 74 încheie seria.
 >
-> Blocurile 1–2 livrează promisiunea de bază (publicitarii și politicienii); Modulele 3–8 lărgesc perspectiva; Specialul și Dosarele de caz arată tehnicile combinându-se în lumea reală. Modulele 4–8 încep fiecare cu un **episod-fanion „exemplu + puncte-cheie"**, apoi rulează **câte o tehnică pe episod**; Dosarele de caz folosesc structura **în două părți, campanie/analiză**. Convențiile de mai jos se aplică tuturor părților.
+> Blocurile 1–2 livrează promisiunea de bază (specialiștii în publicitate și politicienii); Modulele 3–8 lărgesc perspectiva; Specialul și Dosarele de caz arată tehnicile combinându-se în lumea reală. Modulele 4–8 încep fiecare cu un **episod-fanion „exemplu + puncte-cheie"**, apoi rulează **câte o tehnică pe episod**; Dosarele de caz folosesc structura **în două părți, campanie/analiză**. Convențiile de mai jos se aplică tuturor părților.
 
 ---
 
 ## 1. Misiunea într-o singură propoziție
 
-> Să oferim unui cetățean obișnuit capacitatea de a **observa**, de a **numi** și de a **descifra în linii mari** tehnicile de manipulare folosite de publicitari și de politicieni.
+> Să oferim unui cetățean obișnuit capacitatea de a **observa**, de a **numi** și de a **descifra în linii mari** tehnicile de manipulare folosite de specialiști în publicitate și de politicieni.
 
 Dacă un privitor termină cursul și, urmărind o reclamă TV sau un miting electoral, gândește *„ăsta e un apel la efectul de turmă suprapus peste un apel la frică, iar ei mă vor destul de furios cât să dau mai departe"* — atunci seria și-a atins scopul.
 
@@ -404,7 +404,7 @@ File: Romanian/EP02-technique-transfer-association.md
 
 [GFX: două becuri etichetate „STEAG = mândrie" și „PRODUS = ?". Un fir le leagă; al doilea bec se aprinde.]
 
-**VO:** Creierul tău e o mașină de asociere. Învață legând lucrurile care apar împreună — așa ai învățat că un semafor roșu înseamnă stop. Publicitarii deturnează acest cablaj. Arată produsul lângă simbol de suficient de multe ori, iar creierul tău rapid, automat, le pune discret în același sertar.
+**VO:** Creierul tău e o mașină de asociere. Învață legând lucrurile care apar împreună — așa ai învățat că un semafor roșu înseamnă stop. Specialiștii în publicitate deturnează acest circuit. Arată produsul lângă simbol de suficient de multe ori, iar creierul tău rapid, automat, le pune discret în același sertar.
 
 **VO:** Iată capcana: asta se petrece *sub* gândirea conștientă. Nu decizi să te simți patriot față de o camionetă. Sentimentul sosește primul, și abia mai târziu — dacă se întâmplă vreodată — creierul tău lent, logic, întreabă: „stai puțin, ce legătură are un steag cu o camionetă?". Până atunci reclama s-a terminat, iar strălucirea caldă e deja atașată.
 
@@ -1382,7 +1382,7 @@ File: Romanian/EP10-technique-repetition-illusory-truth.md
 
 **VO:** Hiba e că recunoașterea nu are nicio legătură cu acuratețea. O minciună pe care ai auzit-o de zece ori devine și ea ușor de procesat — așa că și ea începe să pară adevărată. Studiile constată că efectul poate funcționa chiar și asupra oamenilor care, întrebați direct, știu răspunsul corect. Versiunea familiară *pare* corectă chiar și când știi că e greșită. Repetiția nu se obosește să-ți învingă cunoașterea; se strecoară pe sub ea.
 
-**VO:** De aceea „repetă o minciună destul de des și devine acceptată" nu e doar o vorbă cinică — e o trăsătură măsurabilă a minților omenești. Și de aceea propagandiștii și publicitarii deopotrivă au iubit dintotdeauna expresia simplă, repetată.
+**VO:** De aceea „repetă o minciună destul de des și devine acceptată" nu e doar o vorbă cinică — e o trăsătură măsurabilă a minților omenești. Și de aceea propagandiștii și specialiștii în publicitate deopotrivă au iubit dintotdeauna expresia simplă, repetată.
 
 ---
 
@@ -4934,7 +4934,7 @@ File: Romanian/EP38-module-persuasion-engine-six-ways-to-yes.md
 
 [GFX: un card cu portret/citat pentru Robert Cialdini.]
 
-**VO:** Psihologul Robert Cialdini a petrecut ani studiind profesioniștii obținerii acordului — vânzători, strângători de fonduri, publicitari, negociatori — ca să găsească principiile recurente care îi fac, în chip sigur, pe oameni să spună „da". Le-a distilat într-o mână de principii devenite celebre: <en>reciprocity</en> (<emf>reciprocitate</emf>), <en>commitment and consistency</en> (<emf>angajament și consecvență</emf>), <en>social proof</en> (<emf>dovada socială</emf>), <en>authority</en> (<emf>autoritate</emf>), <en>liking</en> (<emf>simpatie</emf>) și <en>scarcity</en> (<emf>raritate</emf>). (A adăugat ulterior un al șaptelea, <en>unity</en> — <emf>unitatea</emf>.)
+**VO:** Psihologul Robert Cialdini a petrecut ani studiind profesioniștii obținerii acordului — vânzători, strângători de fonduri, specialiști în publicitate, negociatori — ca să găsească principiile recurente care îi fac, în chip sigur, pe oameni să spună „da". Le-a distilat într-o mână de principii devenite celebre: <en>reciprocity</en> (<emf>reciprocitate</emf>), <en>commitment and consistency</en> (<emf>angajament și consecvență</emf>), <en>social proof</en> (<emf>dovada socială</emf>), <en>authority</en> (<emf>autoritate</emf>), <en>liking</en> (<emf>simpatie</emf>) și <en>scarcity</en> (<emf>raritate</emf>). (A adăugat ulterior un al șaptelea, <en>unity</en> — <emf>unitatea</emf>.)
 
 [LOWER THIRD: Robert Cialdini, *Influence: The Psychology of Persuasion* („Influența: psihologia persuasiunii")]
 
